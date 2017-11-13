@@ -23,6 +23,7 @@ object SparkTest {
     //广播文件到每一个executor
     sc.addFile(path)
     val sql = s"select d_id,preserve1 from hive.rawIP"
+    import spark.implicits._
     val ips = spark.sql(sql).map(x => (x.getString(0), x.getString(1))).filter(_._2 != "")
     val l = ips.map(x => {
       // IpLookups 类 使用new File（）获取本地文件，所以只能在executor 上获取字典文件

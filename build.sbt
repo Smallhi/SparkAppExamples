@@ -23,6 +23,8 @@ libraryDependencies ++= Seq(
   "org.apache.spark" %% "spark-streaming" % "2.0.0" % "provided",
   "org.apache.spark" %% "spark-graphx" % "2.0.0" % "provided",
   "org.apache.spark" %% "spark-mllib" % "2.0.0" % "provided",
+   "org.jsoup" % "jsoup" % "1.11.1",
+
 //  ,
   "com.snowplowanalytics"  %% "scala-maxmind-iplookups"  % "0.2.0"
 )
