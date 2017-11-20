@@ -15,6 +15,8 @@ scalaVersion := "2.11.8"
 // Resolvers
 resolvers += "SnowPlow Repo" at "http://maven.snplow.com/releases/"
 resolvers += "Twitter Maven Repo" at "http://maven.twttr.com/"
+resolvers += "MMLSpark Repo" at "https://mmlspark.azureedge.net/maven"
+
 
 libraryDependencies ++= Seq(
   "org.apache.spark" %% "spark-core" % "2.0.0" % "provided",
@@ -24,7 +26,7 @@ libraryDependencies ++= Seq(
   "org.apache.spark" %% "spark-graphx" % "2.0.0" % "provided",
   "org.apache.spark" %% "spark-mllib" % "2.0.0" % "provided",
    "org.jsoup" % "jsoup" % "1.11.1",
-
+  // "com.microsoft.ml.spark" %% "mmlspark" % "0.10",
 //  ,
   "com.snowplowanalytics"  %% "scala-maxmind-iplookups"  % "0.2.0"
 )

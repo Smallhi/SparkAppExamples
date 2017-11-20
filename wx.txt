@@ -1,0 +1,1088 @@
+20071023;9:00 PM;13.0 °C;-;9.0 °C;77%;1024 hPa;7.0 km;Calm;Calm;-;N/A;;Unknown
+20070313;9:00 PM;7.0 °C;4.9 °C;3.0 °C;76%;1019 hPa;3.0 km;SE;10.8 km/h / 3.0 m/s;-;N/A;;Mist
+20080129;9:00 PM;-6.0 °C;-14.6 °C;-23.0 °C;26%;1029 hPa;-;NNW;32.4 km/h / 9.0 m/s;-;N/A;;Clear
+20060928;9:00 PM;21.0 °C;11.0 °C;53%;1019 hPa;-;NNE;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20080713;9:00 PM;28.0 °C;30.2 °C;21.0 °C;66%;1007 hPa;-;South;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20071004;9:00 PM;16.0 °C;16.0 °C;100%;1020 hPa;8.0 km;Variable;7.2 km/h / 2.0 m/s;-;N/A;Rain;Light Rain
+20070823;9:00 PM;27.0 °C;27.9 °C;18.0 °C;58%;1010 hPa;-;South;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20070605;9:00 PM;28.0 °C;27.5 °C;12.0 °C;37%;1003 hPa;-;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20040624;9:00 PM;19.0 °C;18.0 °C;94%;1001 hPa;10.0 km;SW;7.2 km/h / 2.0 m/s;-;N/A;Thunderstorm;Light Thunderstorm
+20100422;9:00 PM;11.0 °C;-;4.0 °C;62%;1021 hPa;-;West;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20070424;9:00 PM;18.0 °C;-6.0 °C;19%;1009 hPa;-;ENE;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20051108;9:00 PM;7.0 °C;5.7 °C;-4.0 °C;46%;1018 hPa;-;ESE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20080424;9:00 PM;11.0 °C;-;8.0 °C;82%;1007 hPa;-;SE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20031023;9:00 PM;7.0 °C;5.7 °C;4.0 °C;81%;1016 hPa;4.0 km;ESE;7.2 km/h / 2.0 m/s;-;N/A;;Mist
+20070717;9:00 PM;30.0 °C;38.8 °C;27.0 °C;84%;996 hPa;2.0 km;SE;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20170608;9:00 PM;27.0 °C;10.0 °C;34%;1003 hPa;-;SSW;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20061217;9:00 PM;-6.0 °C;-;-19.0 °C;36%;1033 hPa;4.0 km;NNE;3.6 km/h / 1.0 m/s;-;N/A;;Smoke
+20131107;9:00 PM;5.0 °C;-;-5.0 °C;49%;1020 hPa;8.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Unknown
+20080605;9:00 PM;21.0 °C;-;17.0 °C;78%;1005 hPa;6.0 km;SE;7.2 km/h / 2.0 m/s;-;N/A;;Unknown
+20071111;9:00 PM;5.0 °C;-;2.0 °C;81%;1025 hPa;3.5 km;Calm;Calm;-;N/A;;Mostly Cloudy
+20041219;9:00 PM;-4.0 °C;-11.0 °C;-21.0 °C;26%;1033 hPa;-;NW;25.2 km/h / 7.0 m/s;-;N/A;;Clear
+20060423;9:00 PM;17.0 °C;-19.0 °C;7%;1011 hPa;7.0 km;WNW;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20100603;9:00 PM;22.0 °C;-;12.0 °C;53%;1016 hPa;8.0 km;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20050602;9:00 PM;26.0 °C;-;7.0 °C;30%;1002 hPa;-;WNW;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20171114;9:00 PM;-4.0 °C;-;-11.0 °C;59%;1023 hPa;-;East;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20090315;9:00 PM;12.0 °C;-;-12.0 °C;18%;1009 hPa;-;North;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20090714;9:00 PM;27.0 °C;28.9 °C;21.0 °C;70%;1001 hPa;-;ESE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20081130;9:00 PM;3.0 °C;-;-3.0 °C;65%;1016 hPa;3.5 km;East;3.6 km/h / 1.0 m/s;-;N/A;;Haze
+20161225;9:00 PM;-1.0 °C;-;-5.0 °C;75%;1029 hPa;4.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20160131;9:00 PM;-2.0 °C;-8.5 °C;-17.0 °C;31%;1037 hPa;-;North;25.2 km/h / 7.0 m/s;-;N/A;;Clear
+20060711;9:00 PM;28.0 °C;32.7 °C;25.0 °C;84%;1002 hPa;3.5 km;ESE;7.2 km/h / 2.0 m/s;-;N/A;;Mist
+20140424;9:00 PM;19.0 °C;13.0 °C;68%;1015 hPa;7.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Unknown
+20090820;9:00 PM;25.0 °C;-;21.0 °C;78%;1006 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20150319;9:00 PM;12.0 °C;-;-6.0 °C;28%;1017 hPa;-;ENE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20170827;9:00 PM;17.0 °C;17.0 °C;100%;1014 hPa;5.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;Rain;Light Rain
+20081218;9:00 PM;-4.0 °C;-7.1 °C;-15.0 °C;43%;1020 hPa;8.0 km;East;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20130602;9:00 PM;24.0 °C;17.0 °C;65%;1003 hPa;6.0 km;ESE;10.8 km/h / 3.0 m/s;-;N/A;;Unknown
+20080930;9:00 PM;16.0 °C;14.0 °C;88%;1019 hPa;-;SE;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20081111;9:00 PM;2.0 °C;-;1.0 °C;93%;1025 hPa;1.7 km;Calm;Calm;-;N/A;;Clear
+20100711;9:00 PM;24.0 °C;21.0 °C;83%;1005 hPa;2.8 km;SE;10.8 km/h / 3.0 m/s;-;N/A;;Overcast
+20100928;9:00 PM;10.0 °C;-;5.0 °C;71%;1024 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20091108;9:00 PM;9.0 °C;-;3.0 °C;66%;1021 hPa;4.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Haze
+20081209;9:00 PM;3.0 °C;0.1 °C;-7.0 °C;48%;1019 hPa;6.0 km;NNE;10.8 km/h / 3.0 m/s;-;N/A;;Unknown
+20160825;9:00 PM;22.0 °C;-;8.0 °C;41%;1015 hPa;-;NNE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20090602;9:00 PM;23.0 °C;8.0 °C;38%;1000 hPa;-;SE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20090802;9:00 PM;25.0 °C;-;22.0 °C;83%;1006 hPa;5.0 km;ESE;10.8 km/h / 3.0 m/s;-;N/A;;Mist
+20120712;9:00 PM;27.0 °C;28.5 °C;20.0 °C;65%;1001 hPa;-;NNE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20081023;9:00 PM;9.0 °C;-;-10.0 °C;25%;1023 hPa;-;WNW;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20160714;9:00 PM;23.0 °C;-;22.0 °C;94%;1007 hPa;6.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;Rain;Light Rain Showers
+20161006;9:00 PM;14.0 °C;13.0 °C;94%;1024 hPa;7.0 km;ESE;14.4 km/h / 4.0 m/s;-;N/A;Rain;Light Rain
+20071018;9:00 PM;11.0 °C;-7.0 °C;28%;1025 hPa;-;NNW;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20080124;9:00 PM;-5.0 °C;-10.4 °C;-22.0 °C;26%;1038 hPa;-;NNW;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20060924;9:00 PM;23.0 °C;-;19.0 °C;78%;1016 hPa;4.0 km;SSW;7.2 km/h / 2.0 m/s;-;N/A;Rain;Light Rain
+20070819;9:00 PM;27.0 °C;29.6 °C;23.0 °C;79%;1009 hPa;5.0 km;SSW;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20051103;9:00 PM;11.0 °C;-;8.0 °C;82%;1016 hPa;1.7 km;NNE;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20080420;9:00 PM;12.0 °C;11.0 °C;94%;1020 hPa;3.5 km;NE;7.2 km/h / 2.0 m/s;-;N/A;Rain;Light Rain
+20070308;9:00 PM;3.0 °C;-0.6 °C;-3.0 °C;65%;1019 hPa;-;SE;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20070419;9:00 PM;19.0 °C;14.0 °C;73%;1000 hPa;3.5 km;NNE;7.2 km/h / 2.0 m/s;-;N/A;;Haze
+20031016;9:00 PM;15.0 °C;5.0 °C;51%;1018 hPa;-;SW;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20061212;9:00 PM;3.0 °C;-;-11.0 °C;36%;1027 hPa;8.0 km;North;3.6 km/h / 1.0 m/s;-;N/A;;Unknown
+20100418;9:00 PM;14.0 °C;-;7.0 °C;63%;1012 hPa;2.5 km;ESE;7.2 km/h / 2.0 m/s;-;N/A;;Haze
+20040617;9:00 PM;19.0 °C;17.0 °C;88%;1004 hPa;10.0 km;East;7.2 km/h / 2.0 m/s;-;N/A;Thunderstorm;Light Thunderstorm
+20070930;9:00 PM;16.0 °C;14.0 °C;88%;1019 hPa;3.0 km;South;10.8 km/h / 3.0 m/s;-;N/A;;Mist
+20070712;9:00 PM;26.0 °C;-;23.0 °C;83%;1007 hPa;5.0 km;ESE;10.8 km/h / 3.0 m/s;-;N/A;;Mist
+20070531;9:00 PM;18.0 °C;16.0 °C;88%;1009 hPa;3.5 km;South;14.4 km/h / 4.0 m/s;-;N/A;;Mist
+20071106;9:00 PM;6.0 °C;-;5.0 °C;93%;1023 hPa;1.2 km;Calm;Calm;-;N/A;;Mist
+20131103;9:00 PM;8.0 °C;6.9 °C;-6.0 °C;37%;1027 hPa;-;NE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20170604;9:00 PM;22.0 °C;9.0 °C;43%;1010 hPa;-;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20080708;9:00 PM;23.0 °C;22.0 °C;94%;1008 hPa;2.3 km;SE;7.2 km/h / 2.0 m/s;-;N/A;;Overcast
+20060706;9:00 PM;29.0 °C;31.3 °C;21.0 °C;62%;1002 hPa;-;SE;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20060418;9:00 PM;13.0 °C;-;-16.0 °C;12%;1014 hPa;3.5 km;NNW;36.0 km/h / 10.0 m/s;-;N/A;;Widespread Dust
+20050529;9:00 PM;22.0 °C;19.0 °C;83%;1009 hPa;5.0 km;SSW;10.8 km/h / 3.0 m/s;-;N/A;;Mist
+20100530;9:00 PM;22.0 °C;15.0 °C;64%;1011 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20041214;9:00 PM;-2.0 °C;-;-3.0 °C;93%;1022 hPa;2.0 km;ENE;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20171109;9:00 PM;8.0 °C;-;7.0 °C;93%;1017 hPa;7.0 km;Calm;Calm;-;N/A;;Unknown
+20081125;9:00 PM;5.0 °C;2.5 °C;-6.0 °C;45%;1024 hPa;-;South;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20090816;9:00 PM;23.0 °C;-;21.0 °C;88%;1011 hPa;5.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20170822;9:00 PM;24.0 °C;-;23.0 °C;94%;1008 hPa;10.0 km;NE;7.2 km/h / 2.0 m/s;-;N/A;Rain;Light Rain
+20090709;9:00 PM;27.0 °C;28.2 °C;19.0 °C;61%;1002 hPa;-;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20140420;9:00 PM;19.0 °C;-;4.0 °C;37%;1015 hPa;-;SW;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20090528;9:00 PM;18.0 °C;16.0 °C;88%;1016 hPa;-;East;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20100923;9:00 PM;16.0 °C;10.0 °C;68%;1018 hPa;-;ESE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20081106;9:00 PM;10.0 °C;-;-3.0 °C;40%;1019 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20130528;9:00 PM;21.0 °C;16.0 °C;73%;1006 hPa;-;WSW;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20081019;9:00 PM;12.0 °C;-;9.0 °C;82%;1020 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20090728;9:00 PM;25.0 °C;-;21.0 °C;78%;1005 hPa;8.0 km;East;7.2 km/h / 2.0 m/s;-;N/A;;Unknown
+20160821;9:00 PM;29.0 °C;32.0 °C;22.0 °C;66%;1010 hPa;-;SE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20081204;9:00 PM;-10.0 °C;-18.1 °C;-29.0 °C;21%;1041 hPa;-;NNW;21.6 km/h / 6.0 m/s;-;N/A;;Clear
+20150315;9:00 PM;12.0 °C;-;-10.0 °C;21%;1015 hPa;-;SSE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20090310;9:00 PM;5.0 °C;2.5 °C;-7.0 °C;42%;1025 hPa;-;SE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20080601;9:00 PM;19.0 °C;10.0 °C;56%;1010 hPa;-;NNW;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20160927;9:00 PM;14.0 °C;4.0 °C;51%;1026 hPa;-;North;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20080925;9:00 PM;17.0 °C;2.0 °C;37%;1021 hPa;-;North;21.6 km/h / 6.0 m/s;-;N/A;;Clear
+20160126;9:00 PM;-1.0 °C;-5.5 °C;-18.0 °C;27%;1028 hPa;-;West;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20091103;9:00 PM;0.0 °C;-;-3.0 °C;80%;1024 hPa;6.0 km;SE;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20161220;9:00 PM;-2.0 °C;-4.8 °C;-3.0 °C;93%;1030 hPa;1.4 km;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Mist
+20160710;9:00 PM;31.0 °C;33.0 °C;20.0 °C;52%;1001 hPa;-;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20120708;9:00 PM;26.0 °C;-;24.0 °C;89%;1003 hPa;-;ESE;7.2 km/h / 2.0 m/s;-;N/A;;Mist
+20081214;9:00 PM;-4.0 °C;-;-10.0 °C;64%;1023 hPa;-;Calm;Calm;-;N/A;;Clear
+20100706;9:00 PM;32.0 °C;30.7 °C;12.0 °C;29%;1000 hPa;-;SE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20080120;9:00 PM;-2.0 °C;-;-13.0 °C;43%;1036 hPa;6.0 km;North;3.6 km/h / 1.0 m/s;-;N/A;;Unknown
+20071014;9:00 PM;15.0 °C;-;2.0 °C;42%;1027 hPa;-;WSW;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20060919;9:00 PM;23.0 °C;-;20.0 °C;83%;1017 hPa;2.3 km;SSE;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20070814;9:00 PM;28.0 °C;28.8 °C;18.0 °C;54%;1005 hPa;-;South;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20061207;9:00 PM;0.0 °C;-2.5 °C;-14.0 °C;35%;1037 hPa;-;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20051030;9:00 PM;14.0 °C;-;-1.0 °C;36%;1022 hPa;-;SW;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20170530;9:00 PM;22.0 °C;-;16.0 °C;69%;1004 hPa;-;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20031009;9:00 PM;16.0 °C;16.0 °C;100%;1018 hPa;0.8 km;SE;3.6 km/h / 1.0 m/s;-;N/A;Fog;Fog
+20080415;9:00 PM;18.0 °C;12.0 °C;68%;1012 hPa;5.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Haze
+20040610;9:00 PM;29.0 °C;28.6 °C;14.0 °C;40%;1013 hPa;-;ESE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20070708;9:00 PM;26.0 °C;-;25.0 °C;94%;997 hPa;1.8 km;East;10.8 km/h / 3.0 m/s;-;N/A;;Mist
+20070304;9:00 PM;-1.0 °C;-8.7 °C;-13.0 °C;40%;1027 hPa;-;WNW;39.6 km/h / 11.0 m/s;-;N/A;;Clear
+20100413;9:00 PM;4.0 °C;2.2 °C;-11.0 °C;33%;1028 hPa;-;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20080703;9:00 PM;29.0 °C;33.5 °C;24.0 °C;74%;999 hPa;8.0 km;SE;7.2 km/h / 2.0 m/s;-;N/A;;Unknown
+20070925;9:00 PM;22.0 °C;-;15.0 °C;64%;1016 hPa;-;SE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20050524;9:00 PM;21.0 °C;11.0 °C;53%;1011 hPa;-;SSE;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20060413;9:00 PM;14.0 °C;-;-5.0 °C;27%;1021 hPa;-;SSW;21.6 km/h / 6.0 m/s;-;N/A;;Clear
+20070415;9:00 PM;12.0 °C;-2.0 °C;38%;1013 hPa;-;SSW;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20070527;9:00 PM;23.0 °C;12.0 °C;50%;1008 hPa;-;SE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20090811;9:00 PM;24.0 °C;-;20.0 °C;78%;1004 hPa;-;ESE;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20060702;9:00 PM;29.0 °C;31.3 °C;21.0 °C;62%;1004 hPa;-;WSW;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20081120;9:00 PM;5.0 °C;1.3 °C;-11.0 °C;31%;1024 hPa;-;North;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20171105;9:00 PM;4.0 °C;-;3.0 °C;93%;1021 hPa;5.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20131029;9:00 PM;8.0 °C;6.9 °C;-4.0 °C;43%;1029 hPa;-;South;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20170817;9:00 PM;24.0 °C;-;22.0 °C;89%;1008 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20090705;9:00 PM;22.0 °C;-;20.0 °C;88%;1007 hPa;8.0 km;NNW;14.4 km/h / 4.0 m/s;-;N/A;Rain , Thunderstorm;Light Thunderstorms and Rain
+20140415;9:00 PM;16.0 °C;-5.0 °C;23%;1019 hPa;-;SSW;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20041210;9:00 PM;2.0 °C;-0.1 °C;-5.0 °C;60%;1029 hPa;4.0 km;East;7.2 km/h / 2.0 m/s;-;N/A;;Smoke
+20130523;9:00 PM;23.0 °C;-;15.0 °C;61%;1009 hPa;-;ENE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20081014;9:00 PM;14.0 °C;-;12.0 °C;88%;1018 hPa;4.5 km;NE;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20071101;9:00 PM;8.0 °C;4.7 °C;-10.0 °C;27%;1022 hPa;-;SW;21.6 km/h / 6.0 m/s;-;N/A;;Clear
+20150310;9:00 PM;6.0 °C;-;-17.0 °C;18%;1024 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20100525;9:00 PM;27.0 °C;7.0 °C;28%;1010 hPa;-;SW;14.4 km/h / 4.0 m/s;32.4 km/h / 9.0 m/s;N/A;;Clear
+20100919;9:00 PM;20.0 °C;14.0 °C;68%;1011 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20160705;9:00 PM;27.0 °C;27.9 °C;18.0 °C;58%;1010 hPa;-;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20120703;9:00 PM;30.0 °C;30.3 °C;17.0 °C;45%;997 hPa;-;ESE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20090723;9:00 PM;20.0 °C;-;18.0 °C;88%;1001 hPa;-;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20081102;9:00 PM;8.0 °C;6.1 °C;-1.0 °C;53%;1014 hPa;-;North;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20090524;9:00 PM;25.0 °C;-;16.0 °C;57%;1010 hPa;7.0 km;SE;14.4 km/h / 4.0 m/s;-;N/A;;Unknown
+20080624;9:00 PM;25.0 °C;-;21.0 °C;78%;1004 hPa;3.5 km;SE;14.4 km/h / 4.0 m/s;-;N/A;;Mist
+20080527;9:00 PM;25.0 °C;-6.0 °C;12%;1003 hPa;-;NNE;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20161215;9:00 PM;-1.0 °C;-;-16.0 °C;32%;1033 hPa;-;East;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20160121;9:00 PM;-6.0 °C;-;-8.0 °C;86%;1036 hPa;6.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Unknown
+20160816;9:00 PM;27.0 °C;28.9 °C;21.0 °C;70%;1004 hPa;-;South;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20080115;9:00 PM;-9.0 °C;-;-15.0 °C;62%;1041 hPa;7.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20160922;9:00 PM;19.0 °C;17.0 °C;88%;1013 hPa;6.0 km;NNE;3.6 km/h / 1.0 m/s;-;N/A;;Unknown
+20071009;9:00 PM;15.0 °C;2.0 °C;42%;1022 hPa;-;SW;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20100701;9:00 PM;23.0 °C;20.0 °C;83%;1000 hPa;-;NNE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20080921;9:00 PM;19.0 °C;19.0 °C;100%;1008 hPa;2.0 km;SSW;18.0 km/h / 5.0 m/s;-;N/A;Rain;Rain
+20060914;9:00 PM;21.0 °C;14.0 °C;64%;1018 hPa;10.0 km;South;14.4 km/h / 4.0 m/s;-;N/A;;Scattered Clouds
+20070809;9:00 PM;31.0 °C;33.7 °C;21.0 °C;55%;1003 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20091029;9:00 PM;11.0 °C;-;8.0 °C;82%;1019 hPa;3.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20090305;9:00 PM;5.0 °C;-0.9 °C;-14.0 °C;24%;1023 hPa;-;NNW;43.2 km/h / 12.0 m/s;-;N/A;;Clear
+20031002;9:00 PM;15.0 °C;1.0 °C;39%;1027 hPa;-;NW;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20080410;9:00 PM;10.0 °C;-;3.0 °C;62%;1018 hPa;10.0 km;SSE;10.8 km/h / 3.0 m/s;-;N/A;Rain;Light Rain
+20040603;9:00 PM;26.0 °C;-;13.0 °C;44%;1015 hPa;-;South;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20061203;9:00 PM;-2.0 °C;-;-14.0 °C;40%;1033 hPa;6.0 km;NNE;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20070703;9:00 PM;25.0 °C;-;18.0 °C;65%;1000 hPa;-;SSW;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20170525;9:00 PM;21.0 °C;-;8.0 °C;43%;1013 hPa;-;SSE;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20100408;9:00 PM;16.0 °C;-;4.0 °C;45%;1006 hPa;7.0 km;North;7.2 km/h / 2.0 m/s;-;N/A;;Unknown
+20080629;9:00 PM;23.0 °C;21.0 °C;88%;1003 hPa;1.7 km;NNW;7.2 km/h / 2.0 m/s;-;N/A;Rain;Light Rain Showers
+20050519;9:00 PM;23.0 °C;5.0 °C;31%;1014 hPa;-;SW;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20070920;9:00 PM;21.0 °C;16.0 °C;73%;1015 hPa;-;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20051025;9:00 PM;12.0 °C;-;11.0 °C;94%;1021 hPa;2.5 km;ESE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20070522;9:00 PM;18.0 °C;18.0 °C;100%;1003 hPa;1.6 km;North;14.4 km/h / 4.0 m/s;-;N/A;Rain;Light Rain
+20170813;9:00 PM;23.0 °C;-;22.0 °C;94%;1009 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20171031;9:00 PM;8.0 °C;6.9 °C;4.0 °C;76%;1017 hPa;7.0 km;East;7.2 km/h / 2.0 m/s;-;N/A;;Unknown
+20070227;9:00 PM;5.0 °C;-;3.0 °C;87%;1031 hPa;2.7 km;WNW;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20090630;9:00 PM;29.0 °C;8.0 °C;27%;1003 hPa;-;North;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20060409;9:00 PM;12.0 °C;-;3.0 °C;54%;1007 hPa;4.0 km;SSE;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20060627;9:00 PM;31.0 °C;36.4 °C;24.0 °C;66%;1002 hPa;5.0 km;East;14.4 km/h / 4.0 m/s;-;N/A;;Haze
+20081116;9:00 PM;5.0 °C;0.2 °C;-16.0 °C;21%;1024 hPa;-;North;28.8 km/h / 8.0 m/s;-;N/A;;Clear
+20090806;9:00 PM;23.0 °C;-;21.0 °C;88%;1010 hPa;8.0 km;Calm;Calm;-;N/A;;Clear
+20070410;9:00 PM;12.0 °C;-3.0 °C;35%;1019 hPa;-;SSE;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20100520;9:00 PM;29.0 °C;2.0 °C;18%;1006 hPa;-;SSW;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20131024;9:00 PM;12.0 °C;-;-4.0 °C;33%;1027 hPa;-;NW;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20140410;9:00 PM;15.0 °C;-2.0 °C;31%;1021 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20100914;9:00 PM;23.0 °C;-;18.0 °C;73%;1013 hPa;-;SE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20041205;9:00 PM;3.0 °C;0.1 °C;-6.0 °C;52%;1024 hPa;-;SSE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20071028;9:00 PM;6.0 °C;3.7 °C;-7.0 °C;39%;1027 hPa;-;NNW;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20130519;9:00 PM;20.0 °C;-8.0 °C;15%;1003 hPa;-;North;25.2 km/h / 7.0 m/s;43.2 km/h / 12.0 m/s;N/A;;Clear
+20080619;9:00 PM;25.0 °C;-;22.0 °C;83%;1000 hPa;3.5 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20081009;9:00 PM;10.0 °C;-;9.0 °C;94%;1021 hPa;4.5 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20120628;9:00 PM;22.0 °C;21.0 °C;94%;1008 hPa;2.3 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Overcast
+20090719;9:00 PM;28.0 °C;31.9 °C;24.0 °C;79%;1002 hPa;5.0 km;SE;7.2 km/h / 2.0 m/s;-;N/A;;Mist
+20090519;9:00 PM;29.0 °C;7.0 °C;25%;1002 hPa;-;SSW;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20150305;9:00 PM;3.0 °C;1.0 °C;-15.0 °C;26%;1023 hPa;8.0 km;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Unknown
+20080522;9:00 PM;23.0 °C;-;15.0 °C;61%;1005 hPa;7.0 km;East;7.2 km/h / 2.0 m/s;-;N/A;;Unknown
+20161211;9:00 PM;-1.0 °C;-;-4.0 °C;80%;1022 hPa;3.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20160117;9:00 PM;-10.0 °C;-;-18.0 °C;53%;1026 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20080110;9:00 PM;-8.0 °C;-;-11.0 °C;79%;1026 hPa;6.0 km;NNE;3.6 km/h / 1.0 m/s;-;N/A;;Unknown
+20160811;9:00 PM;30.0 °C;37.4 °C;26.0 °C;79%;1006 hPa;7.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Unknown
+20160630;9:00 PM;27.0 °C;29.2 °C;22.0 °C;74%;1003 hPa;7.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Unknown
+20081028;9:00 PM;9.0 °C;-;6.0 °C;82%;1015 hPa;-;East;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20060604;9:00 PM;26.0 °C;-;19.0 °C;65%;1005 hPa;3.0 km;East;7.2 km/h / 2.0 m/s;-;N/A;;Haze
+20030925;9:00 PM;19.0 °C;15.0 °C;78%;1018 hPa;-;North;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20060910;9:00 PM;21.0 °C;12.0 °C;56%;1016 hPa;-;Variable;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20080406;9:00 PM;12.0 °C;10.0 °C;88%;1010 hPa;2.7 km;East;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20100627;9:00 PM;24.0 °C;-;18.0 °C;69%;1003 hPa;5.0 km;NE;18.0 km/h / 5.0 m/s;36.0 km/h / 10.0 m/s;N/A;;Overcast
+20160918;9:00 PM;17.0 °C;15.0 °C;88%;1021 hPa;-;North;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20091025;9:00 PM;18.0 °C;5.0 °C;42%;1019 hPa;-;NNW;25.2 km/h / 7.0 m/s;-;N/A;;Clear
+20040527;9:00 PM;19.0 °C;16.0 °C;83%;1009 hPa;6.0 km;SE;10.8 km/h / 3.0 m/s;-;N/A;;Unknown
+20070805;9:00 PM;25.0 °C;23.0 °C;89%;1009 hPa;3.5 km;NE;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20080916;9:00 PM;18.0 °C;-;17.0 °C;94%;1011 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20070628;9:00 PM;27.0 °C;29.6 °C;23.0 °C;79%;1002 hPa;4.5 km;South;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20080615;9:00 PM;23.0 °C;-;19.0 °C;78%;1014 hPa;6.0 km;SE;3.6 km/h / 1.0 m/s;-;N/A;;Unknown
+20070916;9:00 PM;22.0 °C;20.0 °C;88%;1013 hPa;2.5 km;East;7.2 km/h / 2.0 m/s;-;N/A;;Mist
+20170521;9:00 PM;23.0 °C;-;14.0 °C;57%;1011 hPa;-;ESE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20100404;9:00 PM;15.0 °C;-;-7.0 °C;22%;1009 hPa;-;SE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20061128;9:00 PM;2.0 °C;-1.1 °C;-11.0 °C;38%;1028 hPa;-;WNW;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20050515;9:00 PM;23.0 °C;-;16.0 °C;65%;1011 hPa;6.0 km;SSE;10.8 km/h / 3.0 m/s;-;N/A;;Mostly Cloudy
+20060622;9:00 PM;29.0 °C;30.3 °C;19.0 °C;55%;1006 hPa;-;NNE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20051020;9:00 PM;12.0 °C;9.0 °C;82%;1025 hPa;3.0 km;North;7.2 km/h / 2.0 m/s;-;N/A;;Mist
+20090301;9:00 PM;1.0 °C;-3.0 °C;-6.0 °C;60%;1036 hPa;-;SE;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20070517;9:00 PM;18.0 °C;2.0 °C;34%;1007 hPa;-;NW;39.6 km/h / 11.0 m/s;-;N/A;;Clear
+20070405;9:00 PM;10.0 °C;-;2.0 °C;58%;1020 hPa;6.0 km;Calm;Calm;-;N/A;;Clear
+20141005;9:00 PM;10.0 °C;6.0 °C;76%;1026 hPa;-;NNE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20070215;9:00 PM;2.0 °C;-1.8 °C;-10.0 °C;41%;1020 hPa;-;East;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20140406;9:00 PM;20.0 °C;-;-7.0 °C;16%;1014 hPa;-;SSW;21.6 km/h / 6.0 m/s;-;N/A;;Clear
+20170808;9:00 PM;26.0 °C;-;22.0 °C;78%;997 hPa;10.0 km;North;7.2 km/h / 2.0 m/s;-;N/A;;Mostly Cloudy
+20100516;9:00 PM;15.0 °C;14.0 °C;94%;1014 hPa;4.0 km;ESE;7.2 km/h / 2.0 m/s;-;N/A;Rain;Light Rain
+20090625;9:00 PM;29.0 °C;-;9.0 °C;29%;1001 hPa;-;SE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20060404;9:00 PM;18.0 °C;-11.0 °C;13%;1015 hPa;-;ENE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20171026;9:00 PM;10.0 °C;10.0 °C;100%;1018 hPa;2.6 km;East;7.2 km/h / 2.0 m/s;-;N/A;;Mist
+20041130;9:00 PM;0.0 °C;-2.5 °C;-1.0 °C;93%;1029 hPa;2.0 km;North;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20081005;9:00 PM;10.0 °C;9.0 °C;94%;1021 hPa;-;North;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20130514;9:00 PM;27.0 °C;0.0 °C;17%;1010 hPa;-;West;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20131020;9:00 PM;14.0 °C;-;-4.0 °C;29%;1023 hPa;-;SSW;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20080106;9:00 PM;1.0 °C;-1.3 °C;-9.0 °C;48%;1024 hPa;4.0 km;SE;7.2 km/h / 2.0 m/s;-;N/A;;Haze
+20100909;9:00 PM;21.0 °C;-;17.0 °C;78%;1010 hPa;8.0 km;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Unknown
+20171008;9:00 PM;14.0 °C;14.0 °C;100%;1022 hPa;1.8 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Partly Cloudy
+20120624;9:00 PM;22.0 °C;22.0 °C;100%;1004 hPa;2.2 km;SE;7.2 km/h / 2.0 m/s;-;N/A;Rain;Light Rain Showers
+20080518;9:00 PM;21.0 °C;-2.0 °C;21%;1008 hPa;-;WNW;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20090514;9:00 PM;16.0 °C;11.0 °C;72%;1015 hPa;10.0 km;SSW;18.0 km/h / 5.0 m/s;-;N/A;Rain;Light Rain
+20161206;9:00 PM;-2.0 °C;-;-7.0 °C;69%;1020 hPa;5.0 km;East;3.6 km/h / 1.0 m/s;-;N/A;;Haze
+20160112;9:00 PM;-4.0 °C;-12.3 °C;-20.0 °C;28%;1028 hPa;-;NNW;36.0 km/h / 10.0 m/s;-;N/A;;Clear
+20060530;9:00 PM;26.0 °C;-;21.0 °C;74%;1004 hPa;3.5 km;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Smoke
+20030918;9:00 PM;18.0 °C;11.0 °C;64%;1019 hPa;-;NNE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20160807;9:00 PM;27.0 °C;29.6 °C;23.0 °C;79%;1009 hPa;-;South;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20160626;9:00 PM;30.0 °C;-;9.0 °C;27%;1004 hPa;-;South;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20040520;9:00 PM;19.0 °C;-1.0 °C;26%;1002 hPa;-;Variable;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20070624;9:00 PM;25.0 °C;-;17.0 °C;61%;1002 hPa;-;NNE;21.6 km/h / 6.0 m/s;-;N/A;;Clear
+20100622;9:00 PM;24.0 °C;-;13.0 °C;50%;1009 hPa;-;South;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20150301;9:00 PM;9.0 °C;-;-14.0 °C;19%;1017 hPa;-;SSW;18.0 km/h / 5.0 m/s;39.6 km/h / 11.0 m/s;N/A;;Clear
+20080911;9:00 PM;19.0 °C;-;17.0 °C;88%;1009 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20080610;9:00 PM;25.0 °C;-;15.0 °C;54%;1012 hPa;-;SSW;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20091020;9:00 PM;12.0 °C;-;-4.0 °C;33%;1018 hPa;-;North;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20050510;9:00 PM;12.0 °C;9.0 °C;82%;1006 hPa;6.0 km;ESE;14.4 km/h / 4.0 m/s;-;N/A;;Overcast
+20080401;9:00 PM;11.0 °C;-;-4.0 °C;35%;1012 hPa;-;WNW;32.4 km/h / 9.0 m/s;-;N/A;;Clear
+20070911;9:00 PM;26.0 °C;-;17.0 °C;57%;1012 hPa;7.0 km;SE;7.2 km/h / 2.0 m/s;-;N/A;;Unknown
+20051016;9:00 PM;19.0 °C;-;0.0 °C;28%;1016 hPa;-;North;21.6 km/h / 6.0 m/s;-;N/A;;Clear
+20060905;9:00 PM;20.0 °C;12.0 °C;60%;1009 hPa;-;South;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20170516;9:00 PM;26.0 °C;8.0 °C;32%;1002 hPa;-;South;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20070513;9:00 PM;27.0 °C;-3.0 °C;14%;1004 hPa;-;North;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20070731;9:00 PM;27.0 °C;31.2 °C;26.0 °C;94%;999 hPa;3.0 km;East;7.2 km/h / 2.0 m/s;-;N/A;;Mostly Cloudy
+20070401;9:00 PM;9.0 °C;-;-7.0 °C;32%;1023 hPa;-;WNW;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20100330;9:00 PM;8.0 °C;-;7.0 °C;93%;1015 hPa;0.8 km;East;3.6 km/h / 1.0 m/s;-;N/A;Fog , Rain;Light Rain
+20061123;9:00 PM;1.0 °C;-;-7.0 °C;56%;1035 hPa;4.0 km;SSE;3.6 km/h / 1.0 m/s;-;N/A;;Smoke
+20070211;9:00 PM;6.0 °C;4.5 °C;-11.0 °C;29%;1017 hPa;8.0 km;South;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20171022;9:00 PM;9.0 °C;-;6.0 °C;82%;1024 hPa;-;North;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20170803;9:00 PM;31.0 °C;39.2 °C;26.0 °C;75%;997 hPa;-;South;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20100511;9:00 PM;20.0 °C;4.0 °C;35%;1016 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20090224;9:00 PM;2.0 °C;-1.1 °C;-23.0 °C;14%;1026 hPa;-;NNE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20060618;9:00 PM;31.0 °C;29.8 °C;12.0 °C;31%;1005 hPa;-;SSE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20090621;9:00 PM;27.0 °C;-;2.0 °C;20%;1000 hPa;-;NNW;28.8 km/h / 8.0 m/s;-;N/A;;Clear
+20160426;9:00 PM;17.0 °C;5.0 °C;45%;1015 hPa;-;SE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20160913;9:00 PM;21.0 °C;-;19.0 °C;88%;1017 hPa;-;South;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20131015;9:00 PM;9.0 °C;-;-3.0 °C;43%;1027 hPa;-;South;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20060330;9:00 PM;8.0 °C;5.6 °C;-7.0 °C;34%;1015 hPa;-;SE;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20100905;9:00 PM;25.0 °C;-;19.0 °C;69%;1010 hPa;7.0 km;South;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20041125;9:00 PM;0.0 °C;-3.5 °C;-15.0 °C;32%;1036 hPa;-;West;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20140401;9:00 PM;18.0 °C;0.0 °C;30%;1010 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20040226;9:00 PM;2.0 °C;-;-10.0 °C;41%;1019 hPa;-;SE;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20171003;9:00 PM;10.0 °C;7.0 °C;82%;1027 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20080824;9:00 PM;26.0 °C;-;22.0 °C;78%;1008 hPa;-;East;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20090510;9:00 PM;17.0 °C;8.0 °C;55%;1010 hPa;-;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20060525;9:00 PM;18.0 °C;15.0 °C;83%;1014 hPa;-;North;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20130509;9:00 PM;15.0 °C;12.0 °C;82%;1008 hPa;-;SE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20080101;9:00 PM;1.0 °C;-3.0 °C;-17.0 °C;25%;1030 hPa;-;NW;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20030911;9:00 PM;20.0 °C;-;18.0 °C;88%;1011 hPa;-;SE;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20160107;9:00 PM;-3.0 °C;-8.7 °C;-16.0 °C;37%;1029 hPa;-;NNW;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20120619;9:00 PM;25.0 °C;-;20.0 °C;74%;1001 hPa;4.0 km;South;14.4 km/h / 4.0 m/s;-;N/A;Rain , Thunderstorm;Light Thunderstorms and Rain
+20140930;9:00 PM;10.0 °C;5.0 °C;71%;1022 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20160802;9:00 PM;28.0 °C;31.2 °C;23.0 °C;74%;1009 hPa;-;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20161201;9:00 PM;-2.0 °C;-;-7.0 °C;69%;1033 hPa;-;Calm;Calm;-;N/A;;Clear
+20160621;9:00 PM;23.0 °C;-;19.0 °C;78%;1001 hPa;-;ENE;21.6 km/h / 6.0 m/s;39.6 km/h / 11.0 m/s;N/A;;Clear
+20040513;9:00 PM;24.0 °C;1.0 °C;22%;1010 hPa;-;SSW;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20150217;9:00 PM;2.0 °C;-;-10.0 °C;41%;1026 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20070619;9:00 PM;23.0 °C;19.0 °C;78%;1011 hPa;3.0 km;South;7.2 km/h / 2.0 m/s;-;N/A;;Mist
+20080513;9:00 PM;16.0 °C;-;10.0 °C;68%;1015 hPa;-;SE;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20060126;9:00 PM;-1.0 °C;-3.6 °C;-9.0 °C;55%;1025 hPa;3.0 km;NNW;7.2 km/h / 2.0 m/s;-;N/A;;Smoke
+20070906;9:00 PM;23.0 °C;-;13.0 °C;53%;1012 hPa;-;SSW;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20050505;9:00 PM;16.0 °C;-11.0 °C;15%;1009 hPa;-;NW;28.8 km/h / 8.0 m/s;-;N/A;;Clear
+20080907;9:00 PM;19.0 °C;18.0 °C;94%;1020 hPa;7.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Unknown
+20060831;9:00 PM;24.0 °C;-;21.0 °C;83%;1007 hPa;6.0 km;South;7.2 km/h / 2.0 m/s;-;N/A;;Unknown
+20170511;9:00 PM;20.0 °C;-17.0 °C;7%;1011 hPa;-;North;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20070327;9:00 PM;8.0 °C;5.1 °C;-1.0 °C;53%;1012 hPa;-;SE;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20070508;9:00 PM;14.0 °C;8.0 °C;67%;1013 hPa;-;NE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20100325;9:00 PM;6.0 °C;-;-10.0 °C;31%;1023 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20100617;9:00 PM;20.0 °C;17.0 °C;83%;1003 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20091015;9:00 PM;16.0 °C;-;8.0 °C;59%;1011 hPa;8.0 km;SE;7.2 km/h / 2.0 m/s;-;N/A;;Unknown
+20170730;9:00 PM;26.0 °C;-;20.0 °C;69%;1005 hPa;-;South;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20070726;9:00 PM;27.0 °C;30.1 °C;24.0 °C;84%;1006 hPa;2.7 km;SE;14.4 km/h / 4.0 m/s;-;N/A;;Mist
+20061119;9:00 PM;5.0 °C;3.4 °C;2.0 °C;81%;1021 hPa;1.7 km;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20080327;9:00 PM;11.0 °C;-;-7.0 °C;28%;1017 hPa;-;South;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20060326;9:00 PM;8.0 °C;5.6 °C;-8.0 °C;32%;1014 hPa;-;ESE;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20160421;9:00 PM;23.0 °C;-;-12.0 °C;9%;1005 hPa;-;North;43.2 km/h / 12.0 m/s;61.2 km/h / 17.0 m/s;N/A;;Clear
+20171017;9:00 PM;13.0 °C;-;12.0 °C;94%;1027 hPa;5.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Overcast
+20041121;9:00 PM;4.0 °C;-;0.0 °C;75%;1028 hPa;1.7 km;ESE;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20060613;9:00 PM;18.0 °C;16.0 °C;88%;1009 hPa;-;NNE;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20100831;9:00 PM;23.0 °C;-;20.0 °C;83%;1011 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20090219;9:00 PM;0.0 °C;-6.3 °C;-19.0 °C;23%;1022 hPa;-;WNW;28.8 km/h / 8.0 m/s;-;N/A;;Clear
+20051011;9:00 PM;15.0 °C;14.0 °C;94%;1021 hPa;2.2 km;SE;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20140327;9:00 PM;13.0 °C;3.0 °C;51%;1009 hPa;5.0 km;North;7.2 km/h / 2.0 m/s;-;N/A;;Haze
+20040219;9:00 PM;8.0 °C;6.9 °C;-4.0 °C;43%;1022 hPa;6.0 km;SSW;7.2 km/h / 2.0 m/s;-;N/A;;Unknown
+20090616;9:00 PM;20.0 °C;17.0 °C;83%;1008 hPa;3.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Overcast
+20170928;9:00 PM;17.0 °C;-;-2.0 °C;27%;1013 hPa;-;SSW;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20160908;9:00 PM;26.0 °C;-;13.0 °C;44%;1007 hPa;-;South;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20060521;9:00 PM;17.0 °C;14.0 °C;82%;1010 hPa;4.0 km;South;14.4 km/h / 4.0 m/s;-;N/A;;Mist
+20070206;9:00 PM;5.0 °C;2.5 °C;-8.0 °C;39%;1028 hPa;6.0 km;South;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20100506;9:00 PM;23.0 °C;2.0 °C;25%;1005 hPa;-;SW;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20160103;9:00 PM;-4.0 °C;-;-7.0 °C;80%;1025 hPa;5.0 km;Calm;Calm;-;N/A;;Mist
+20071227;9:00 PM;0.0 °C;-;-2.0 °C;87%;1026 hPa;1.1 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Overcast
+20131010;9:00 PM;16.0 °C;-4.0 °C;25%;1015 hPa;-;NNW;21.6 km/h / 6.0 m/s;-;N/A;;Clear
+20130505;9:00 PM;23.0 °C;-;15.0 °C;61%;1015 hPa;6.0 km;South;14.4 km/h / 4.0 m/s;-;N/A;;Unknown
+20120614;9:00 PM;19.0 °C;-;15.0 °C;78%;1006 hPa;10.0 km;NNE;7.2 km/h / 2.0 m/s;-;N/A;;Partly Cloudy
+20160728;9:00 PM;28.0 °C;32.7 °C;25.0 °C;84%;1002 hPa;-;ESE;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20040506;9:00 PM;17.0 °C;4.0 °C;42%;1015 hPa;8.0 km;SE;18.0 km/h / 5.0 m/s;-;N/A;;Unknown
+20030904;9:00 PM;18.0 °C;18.0 °C;100%;1013 hPa;2.5 km;Calm;Calm;-;N/A;;Mist
+20090505;9:00 PM;21.0 °C;7.0 °C;40%;1014 hPa;-;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20140925;9:00 PM;19.0 °C;17.0 °C;88%;1014 hPa;3.5 km;ESE;7.2 km/h / 2.0 m/s;-;N/A;;Mist
+20060122;9:00 PM;-2.0 °C;-;-9.0 °C;59%;1033 hPa;4.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Smoke
+20150212;9:00 PM;1.0 °C;-3.0 °C;-10.0 °C;44%;1020 hPa;-;SE;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20080508;9:00 PM;20.0 °C;0.0 °C;26%;1015 hPa;-;South;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20160616;9:00 PM;31.0 °C;-;10.0 °C;27%;995 hPa;-;South;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20161127;9:00 PM;-2.0 °C;-;-10.0 °C;55%;1032 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20080902;9:00 PM;24.0 °C;-;17.0 °C;65%;1010 hPa;-;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20170507;9:00 PM;26.0 °C;-;3.0 °C;23%;1009 hPa;-;SW;21.6 km/h / 6.0 m/s;-;N/A;;Clear
+20060827;9:00 PM;26.0 °C;-;24.0 °C;89%;1006 hPa;5.0 km;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Mist
+20070322;9:00 PM;8.0 °C;-;5.0 °C;81%;1018 hPa;1.7 km;Calm;Calm;-;N/A;;Mist
+20080819;9:00 PM;25.0 °C;-;20.0 °C;74%;1009 hPa;-;South;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20070503;9:00 PM;26.0 °C;6.0 °C;28%;1005 hPa;-;SW;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20070614;9:00 PM;27.0 °C;-;10.0 °C;34%;1008 hPa;-;SSW;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20050501;9:00 PM;21.0 °C;-4.0 °C;18%;1010 hPa;-;SW;21.6 km/h / 6.0 m/s;-;N/A;;Clear
+20070902;9:00 PM;24.0 °C;-;16.0 °C;61%;1013 hPa;-;SE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20061114;9:00 PM;10.0 °C;-;-8.0 °C;28%;1017 hPa;-;SW;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20100321;9:00 PM;8.0 °C;5.6 °C;-5.0 °C;40%;1011 hPa;-;ESE;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20100613;9:00 PM;19.0 °C;-;17.0 °C;88%;1004 hPa;4.0 km;ESE;25.2 km/h / 7.0 m/s;-;N/A;Rain , Thunderstorm;Thunderstorms and Rain
+20080323;9:00 PM;16.0 °C;-;-10.0 °C;16%;1009 hPa;-;NNW;32.4 km/h / 9.0 m/s;-;N/A;;Clear
+20060608;9:00 PM;27.0 °C;4.0 °C;23%;991 hPa;-;North;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20060321;9:00 PM;12.0 °C;-;2.0 °C;51%;1011 hPa;2.7 km;East;14.4 km/h / 4.0 m/s;-;N/A;;Smoke
+20091011;9:00 PM;14.0 °C;11.0 °C;82%;1023 hPa;3.5 km;North;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20051006;9:00 PM;17.0 °C;16.0 °C;94%;1016 hPa;2.0 km;NW;10.8 km/h / 3.0 m/s;-;N/A;;Overcast
+20041116;9:00 PM;10.0 °C;-;-7.0 °C;30%;1022 hPa;-;NW;21.6 km/h / 6.0 m/s;-;N/A;;Clear
+20100826;9:00 PM;26.0 °C;-;14.0 °C;47%;1014 hPa;-;NW;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20171012;9:00 PM;7.0 °C;-;7.0 °C;100%;1022 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20170725;9:00 PM;27.0 °C;28.5 °C;20.0 °C;65%;1008 hPa;-;South;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20090215;9:00 PM;-3.0 °C;-7.1 °C;-14.0 °C;43%;1028 hPa;-;SSE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20040212;9:00 PM;3.0 °C;-;-12.0 °C;33%;1020 hPa;3.5 km;East;3.6 km/h / 1.0 m/s;-;N/A;;Smoke
+20140323;9:00 PM;14.0 °C;-;-1.0 °C;36%;1020 hPa;4.0 km;ESE;14.4 km/h / 4.0 m/s;-;N/A;;Haze
+20070722;9:00 PM;26.0 °C;-;23.0 °C;83%;1008 hPa;5.0 km;ESE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20170924;9:00 PM;20.0 °C;-;18.0 °C;88%;1012 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20160904;9:00 PM;25.0 °C;-;20.0 °C;74%;1009 hPa;-;South;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20060516;9:00 PM;21.0 °C;-;16.0 °C;73%;1009 hPa;10.0 km;North;10.8 km/h / 3.0 m/s;-;N/A;Rain , Thunderstorm;Light Thunderstorms and Rain
+20100502;9:00 PM;24.0 °C;-8.0 °C;11%;1005 hPa;-;East;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20130430;9:00 PM;18.0 °C;-6.0 °C;19%;1014 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20160417;9:00 PM;17.0 °C;-7.0 °C;19%;1011 hPa;-;WNW;21.6 km/h / 6.0 m/s;43.2 km/h / 12.0 m/s;N/A;;Clear
+20090611;9:00 PM;25.0 °C;-;3.0 °C;24%;1000 hPa;-;ENE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20030828;9:00 PM;17.0 °C;17.0 °C;100%;1017 hPa;-;SSE;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20040429;9:00 PM;14.0 °C;11.0 °C;82%;1017 hPa;-;NNE;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20071223;9:00 PM;-3.0 °C;-;-10.0 °C;59%;1030 hPa;5.0 km;North;3.6 km/h / 1.0 m/s;-;N/A;;Smoke
+20140921;9:00 PM;21.0 °C;18.0 °C;83%;1018 hPa;5.0 km;SSE;10.8 km/h / 3.0 m/s;-;N/A;;Mist
+20070201;9:00 PM;-2.0 °C;-4.8 °C;-18.0 °C;29%;1032 hPa;6.0 km;ENE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20131006;9:00 PM;16.0 °C;13.0 °C;82%;1021 hPa;2.8 km;NNE;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20151229;9:00 PM;-4.0 °C;-;-6.0 °C;86%;1028 hPa;1.5 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20120610;9:00 PM;24.0 °C;5.0 °C;29%;999 hPa;-;South;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20060117;9:00 PM;-7.0 °C;-;-11.0 °C;74%;1034 hPa;5.0 km;SSE;3.6 km/h / 1.0 m/s;-;N/A;;Smoke
+20080504;9:00 PM;15.0 °C;-;7.0 °C;59%;1009 hPa;-;SSW;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20150208;9:00 PM;-3.0 °C;-;-20.0 °C;26%;1033 hPa;-;SSE;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20160724;9:00 PM;28.0 °C;32.7 °C;25.0 °C;84%;1005 hPa;10.0 km;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Overcast
+20160612;9:00 PM;26.0 °C;-;18.0 °C;61%;1003 hPa;-;SE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20060822;9:00 PM;20.0 °C;-;17.0 °C;83%;1012 hPa;-;SSE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20161122;9:00 PM;-2.0 °C;-8.0 °C;-16.0 °C;34%;1039 hPa;-;NW;21.6 km/h / 6.0 m/s;39.6 km/h / 11.0 m/s;N/A;;Clear
+20070318;9:00 PM;4.0 °C;1.3 °C;3.0 °C;93%;1026 hPa;2.0 km;NNW;10.8 km/h / 3.0 m/s;-;N/A;Rain;Light Rain
+20090430;9:00 PM;21.0 °C;12.0 °C;56%;1012 hPa;-;SE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20050426;9:00 PM;26.0 °C;-5.0 °C;13%;1001 hPa;-;NW;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20070429;9:00 PM;23.0 °C;-;11.0 °C;47%;1010 hPa;7.0 km;South;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20070828;9:00 PM;26.0 °C;-;17.0 °C;57%;1013 hPa;8.0 km;WSW;14.4 km/h / 4.0 m/s;-;N/A;;Unknown
+20170502;9:00 PM;24.0 °C;-;12.0 °C;47%;1014 hPa;7.0 km;SE;14.4 km/h / 4.0 m/s;-;N/A;;Unknown
+20070610;9:00 PM;29.0 °C;29.8 °C;18.0 °C;51%;1007 hPa;-;SE;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20061109;9:00 PM;6.0 °C;2.2 °C;1.0 °C;70%;1025 hPa;-;ESE;21.6 km/h / 6.0 m/s;-;N/A;;Clear
+20080828;9:00 PM;25.0 °C;-;22.0 °C;83%;1011 hPa;3.0 km;ESE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20100316;9:00 PM;2.0 °C;-0.1 °C;-9.0 °C;44%;1023 hPa;-;NE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20080814;9:00 PM;22.0 °C;-;20.0 °C;88%;1008 hPa;-;NNW;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20060316;9:00 PM;16.0 °C;-;-8.0 °C;19%;1006 hPa;-;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20100608;9:00 PM;26.0 °C;-;11.0 °C;39%;1014 hPa;-;SSE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20041111;9:00 PM;2.0 °C;-3.7 °C;-14.0 °C;30%;1034 hPa;-;NW;28.8 km/h / 8.0 m/s;-;N/A;;Clear
+20051002;9:00 PM;16.0 °C;6.0 °C;52%;1026 hPa;-;SE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20040205;9:00 PM;-2.0 °C;-5.9 °C;-18.0 °C;29%;1027 hPa;-;WNW;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20091006;9:00 PM;12.0 °C;8.0 °C;77%;1024 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20170720;9:00 PM;30.0 °C;40.4 °C;28.0 °C;89%;1001 hPa;3.5 km;NE;7.2 km/h / 2.0 m/s;-;N/A;;Mist
+20080318;9:00 PM;6.0 °C;3.1 °C;-8.0 °C;36%;1026 hPa;-;SSE;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20100822;9:00 PM;22.0 °C;-;18.0 °C;78%;1014 hPa;-;South;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20090210;9:00 PM;9.0 °C;-;-17.0 °C;15%;1010 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20170919;9:00 PM;14.0 °C;11.0 °C;82%;1013 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20160830;9:00 PM;23.0 °C;-;17.0 °C;69%;1001 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20060511;9:00 PM;15.0 °C;10.0 °C;72%;1027 hPa;-;WSW;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20040422;9:00 PM;18.0 °C;-14.0 °C;10%;1017 hPa;-;NNE;25.2 km/h / 7.0 m/s;-;N/A;;Clear
+20130425;9:00 PM;14.0 °C;-10.0 °C;18%;1013 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20030821;9:00 PM;26.0 °C;-;23.0 °C;83%;1010 hPa;-;Calm;Calm;-;N/A;;Clear
+20140318;9:00 PM;9.0 °C;-;-10.0 °C;25%;1022 hPa;-;South;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20170910;9:00 PM;21.0 °C;19.0 °C;88%;1011 hPa;-;East;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20100427;9:00 PM;9.0 °C;-;-10.0 °C;25%;1011 hPa;-;NNW;21.6 km/h / 6.0 m/s;-;N/A;;Clear
+20071218;9:00 PM;-2.0 °C;-;-9.0 °C;59%;1020 hPa;3.5 km;East;3.6 km/h / 1.0 m/s;-;N/A;;Smoke
+20070128;9:00 PM;-1.0 °C;-3.6 °C;-14.0 °C;37%;1022 hPa;6.0 km;ESE;7.2 km/h / 2.0 m/s;-;N/A;;Unknown
+20140916;9:00 PM;19.0 °C;12.0 °C;64%;1019 hPa;8.0 km;South;10.8 km/h / 3.0 m/s;-;N/A;;Unknown
+20080429;9:00 PM;23.0 °C;-;16.0 °C;65%;1002 hPa;4.0 km;ESE;10.8 km/h / 3.0 m/s;-;N/A;;Haze
+20160412;9:00 PM;11.0 °C;-;8.0 °C;82%;1007 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20060112;9:00 PM;-2.0 °C;-5.9 °C;-3.0 °C;93%;1022 hPa;2.5 km;North;10.8 km/h / 3.0 m/s;-;N/A;;Partly Cloudy
+20090607;9:00 PM;23.0 °C;-;16.0 °C;65%;1005 hPa;7.0 km;East;7.2 km/h / 2.0 m/s;-;N/A;;Scattered Clouds
+20120605;9:00 PM;27.0 °C;27.5 °C;16.0 °C;51%;1003 hPa;-;SE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20151224;9:00 PM;-3.0 °C;-5.9 °C;-4.0 °C;93%;1026 hPa;2.0 km;ESE;7.2 km/h / 2.0 m/s;-;N/A;;Mist
+20131001;9:00 PM;15.0 °C;13.0 °C;88%;1020 hPa;-;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20090426;9:00 PM;15.0 °C;-1.0 °C;34%;1015 hPa;-;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20060817;9:00 PM;27.0 °C;30.1 °C;24.0 °C;84%;1010 hPa;5.0 km;SE;7.2 km/h / 2.0 m/s;-;N/A;;Mist
+20160719;9:00 PM;24.0 °C;22.0 °C;89%;1008 hPa;4.5 km;ENE;7.2 km/h / 2.0 m/s;-;N/A;Rain;Light Rain
+20150203;9:00 PM;4.0 °C;-2.2 °C;-18.0 °C;19%;1031 hPa;-;NNW;43.2 km/h / 12.0 m/s;61.2 km/h / 17.0 m/s;N/A;;Clear
+20170427;9:00 PM;24.0 °C;-12.0 °C;8%;1008 hPa;-;WNW;21.6 km/h / 6.0 m/s;-;N/A;;Clear
+20161117;9:00 PM;6.0 °C;-;1.0 °C;70%;1021 hPa;4.5 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Haze
+20130820;9:00 PM;25.0 °C;-;21.0 °C;78%;1009 hPa;4.0 km;North;7.2 km/h / 2.0 m/s;-;N/A;;Overcast
+20160607;9:00 PM;22.0 °C;-;18.0 °C;78%;1010 hPa;8.0 km;SSE;10.8 km/h / 3.0 m/s;-;N/A;;Unknown
+20061105;9:00 PM;4.0 °C;0.1 °C;-22.0 °C;14%;1021 hPa;-;NNW;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20121218;9:00 PM;-5.0 °C;-8.3 °C;-12.0 °C;59%;1032 hPa;8.0 km;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Unknown
+20060312;9:00 PM;1.0 °C;-5.0 °C;-20.0 °C;20%;1029 hPa;-;West;28.8 km/h / 8.0 m/s;-;N/A;;Clear
+20130801;9:00 PM;22.0 °C;-;20.0 °C;88%;1005 hPa;-;Calm;Calm;-;N/A;;Clear
+20100311;9:00 PM;3.0 °C;1.0 °C;-6.0 °C;52%;1005 hPa;5.0 km;North;7.2 km/h / 2.0 m/s;-;N/A;;Haze
+20050421;9:00 PM;15.0 °C;-;-15.0 °C;12%;1014 hPa;-;North;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20050927;9:00 PM;20.0 °C;15.0 °C;73%;1021 hPa;6.0 km;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20080805;9:00 PM;27.0 °C;28.9 °C;21.0 °C;70%;1008 hPa;-;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20040930;9:00 PM;13.0 °C;2.0 °C;47%;1025 hPa;-;NNW;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20170914;9:00 PM;22.0 °C;-;18.0 °C;78%;1017 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20060507;9:00 PM;22.0 °C;11.0 °C;50%;1010 hPa;6.0 km;ESE;18.0 km/h / 5.0 m/s;-;N/A;;Unknown
+20080313;9:00 PM;7.0 °C;5.7 °C;-13.0 °C;23%;1022 hPa;-;SE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20080810;9:00 PM;23.0 °C;-;22.0 °C;94%;1006 hPa;2.0 km;NW;21.6 km/h / 6.0 m/s;-;N/A;Rain , Thunderstorm;Thunderstorms and Rain
+20130714;9:00 PM;27.0 °C;28.9 °C;21.0 °C;70%;1006 hPa;8.0 km;SSW;10.8 km/h / 3.0 m/s;-;N/A;;Mostly Cloudy
+20040415;9:00 PM;23.0 °C;0.0 °C;22%;1004 hPa;8.0 km;SSW;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20090205;9:00 PM;1.0 °C;-1.3 °C;-7.0 °C;56%;1028 hPa;8.0 km;SE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20030814;9:00 PM;25.0 °C;-;19.0 °C;69%;1012 hPa;-;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20170716;9:00 PM;28.0 °C;32.7 °C;25.0 °C;84%;1008 hPa;8.0 km;SE;7.2 km/h / 2.0 m/s;-;N/A;;Unknown
+20091001;9:00 PM;18.0 °C;6.0 °C;45%;1017 hPa;-;NNW;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20070123;9:00 PM;0.0 °C;-2.5 °C;-15.0 °C;32%;1033 hPa;7.0 km;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20071213;9:00 PM;0.0 °C;-3.5 °C;-11.0 °C;44%;1020 hPa;-;West;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20130421;9:00 PM;13.0 °C;-;3.0 °C;51%;1016 hPa;7.0 km;South;14.4 km/h / 4.0 m/s;-;N/A;;Unknown
+20170905;9:00 PM;26.0 °C;-;9.0 °C;34%;1009 hPa;-;NW;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20130723;9:00 PM;27.0 °C;28.2 °C;19.0 °C;61%;999 hPa;-;South;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20110823;9:00 PM;22.0 °C;-;20.0 °C;88%;1012 hPa;7.0 km;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20100817;9:00 PM;27.0 °C;28.2 °C;19.0 °C;61%;1008 hPa;-;SE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20140911;9:00 PM;20.0 °C;19.0 °C;94%;1014 hPa;5.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;Rain;Light Rain Showers
+20120205;9:00 PM;-3.0 °C;-5.9 °C;-12.0 °C;51%;1019 hPa;4.5 km;ESE;7.2 km/h / 2.0 m/s;-;N/A;;Haze
+20041107;9:00 PM;10.0 °C;-;7.0 °C;82%;1017 hPa;1.7 km;NNW;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20160407;9:00 PM;18.0 °C;-12.0 °C;12%;1015 hPa;-;NNW;25.2 km/h / 7.0 m/s;-;N/A;;Clear
+20060813;9:00 PM;21.0 °C;-;21.0 °C;100%;1007 hPa;10.0 km;NNW;10.8 km/h / 3.0 m/s;-;N/A;Rain;Light Rain Showers
+20140313;9:00 PM;10.0 °C;-;-18.0 °C;13%;1018 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20031225;9:00 PM;1.0 °C;-5.0 °C;-21.0 °C;18%;1029 hPa;-;NNW;28.8 km/h / 8.0 m/s;-;N/A;;Clear
+20140717;9:00 PM;26.0 °C;-;23.0 °C;83%;1007 hPa;3.0 km;NE;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20140828;9:00 PM;20.0 °C;-;18.0 °C;88%;1015 hPa;10.0 km;ESE;18.0 km/h / 5.0 m/s;-;N/A;Thunderstorm;Thunderstorm
+20130926;9:00 PM;14.0 °C;-;10.0 °C;77%;1014 hPa;-;East;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20090421;9:00 PM;15.0 °C;-8.0 °C;20%;1011 hPa;-;North;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20060108;9:00 PM;-6.0 °C;-9.4 °C;-21.0 °C;30%;1025 hPa;7.0 km;North;7.2 km/h / 2.0 m/s;-;N/A;;Unknown
+20150129;9:00 PM;-1.0 °C;-8.0 °C;-20.0 °C;23%;1032 hPa;-;NW;32.4 km/h / 9.0 m/s;-;N/A;;Clear
+20151220;9:00 PM;-4.0 °C;-;-4.0 °C;100%;1025 hPa;2.8 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20120531;9:00 PM;16.0 °C;14.0 °C;88%;1015 hPa;10.0 km;East;7.2 km/h / 2.0 m/s;-;N/A;;Overcast
+20121213;9:00 PM;-1.0 °C;-4.7 °C;-5.0 °C;75%;1026 hPa;2.8 km;WNW;10.8 km/h / 3.0 m/s;-;N/A;Snow;Light Snow
+20161113;9:00 PM;8.0 °C;-;6.0 °C;87%;1015 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20060307;9:00 PM;5.0 °C;1.9 °C;-9.0 °C;36%;1024 hPa;8.0 km;SE;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20080731;9:00 PM;26.0 °C;-;25.0 °C;94%;1004 hPa;7.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;Rain;Light Rain Showers
+20060502;9:00 PM;17.0 °C;3.0 °C;39%;1013 hPa;-;ESE;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20130815;9:00 PM;30.0 °C;37.4 °C;26.0 °C;79%;1001 hPa;2.2 km;ESE;7.2 km/h / 2.0 m/s;-;N/A;;Mist
+20061031;9:00 PM;15.0 °C;-;3.0 °C;45%;1023 hPa;-;ESE;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20130728;9:00 PM;32.0 °C;31.9 °C;16.0 °C;38%;1000 hPa;-;SSW;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20170423;9:00 PM;17.0 °C;3.0 °C;39%;1009 hPa;-;ESE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20100307;9:00 PM;-1.0 °C;-4.7 °C;-8.0 °C;60%;1036 hPa;8.0 km;WSW;10.8 km/h / 3.0 m/s;-;N/A;;Unknown
+20031127;9:00 PM;-1.0 °C;-;-1.0 °C;100%;1033 hPa;1.2 km;NE;3.6 km/h / 1.0 m/s;-;N/A;;Overcast
+20050922;9:00 PM;19.0 °C;12.0 °C;64%;1019 hPa;-;SE;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20050417;9:00 PM;17.0 °C;10.0 °C;63%;1015 hPa;5.0 km;SE;10.8 km/h / 3.0 m/s;-;N/A;;Smoke
+20040408;9:00 PM;23.0 °C;-1.0 °C;20%;1008 hPa;-;SW;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20130709;9:00 PM;23.0 °C;22.0 °C;94%;1004 hPa;6.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Partly Cloudy
+20070118;9:00 PM;2.0 °C;-1.1 °C;-12.0 °C;35%;1032 hPa;-;SSW;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20071209;9:00 PM;0.0 °C;-;-6.0 °C;64%;1025 hPa;3.0 km;Calm;Calm;-;N/A;;Smoke
+20160602;9:00 PM;26.0 °C;7.0 °C;30%;1007 hPa;-;South;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20090201;9:00 PM;-2.0 °C;-;-7.0 °C;69%;1026 hPa;5.0 km;Calm;Calm;-;N/A;;Smoke
+20030807;9:00 PM;27.0 °C;29.2 °C;22.0 °C;74%;1004 hPa;-;ESE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20100812;9:00 PM;27.0 °C;29.6 °C;23.0 °C;79%;1001 hPa;7.0 km;ESE;7.2 km/h / 2.0 m/s;-;N/A;;Unknown
+20110818;9:00 PM;24.0 °C;-;20.0 °C;78%;1012 hPa;-;South;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20120424;9:00 PM;14.0 °C;12.0 °C;88%;1009 hPa;-;North;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20170711;9:00 PM;27.0 °C;30.1 °C;24.0 °C;84%;1001 hPa;-;SE;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20040926;9:00 PM;19.0 °C;-;15.0 °C;78%;1017 hPa;-;SE;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20080309;9:00 PM;9.0 °C;-;1.0 °C;58%;1014 hPa;3.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Smoke
+20130718;9:00 PM;25.0 °C;-;21.0 °C;78%;1004 hPa;6.0 km;South;7.2 km/h / 2.0 m/s;-;N/A;;Unknown
+20090927;9:00 PM;18.0 °C;17.0 °C;94%;1017 hPa;2.5 km;SE;7.2 km/h / 2.0 m/s;-;N/A;;Mist
+20130416;9:00 PM;11.0 °C;-;-2.0 °C;41%;1011 hPa;-;SSE;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20060808;9:00 PM;26.0 °C;-;25.0 °C;94%;1007 hPa;4.0 km;NNW;7.2 km/h / 2.0 m/s;-;N/A;Thunderstorm;Scattered Clouds
+20031218;9:00 PM;-4.0 °C;-9.9 °C;-21.0 °C;26%;1038 hPa;-;WNW;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20140907;9:00 PM;24.0 °C;-;20.0 °C;78%;1008 hPa;6.0 km;North;7.2 km/h / 2.0 m/s;-;N/A;;Unknown
+20140309;9:00 PM;4.0 °C;0.1 °C;-10.0 °C;36%;1027 hPa;-;SSE;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20041102;9:00 PM;8.0 °C;-;5.0 °C;81%;1020 hPa;-;ESE;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20060103;9:00 PM;-2.0 °C;-5.9 °C;-6.0 °C;74%;1033 hPa;-;South;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20080727;9:00 PM;28.0 °C;32.7 °C;25.0 °C;84%;1006 hPa;4.0 km;SE;14.4 km/h / 4.0 m/s;-;N/A;;Mist
+20170831;9:00 PM;24.0 °C;-;18.0 °C;69%;1013 hPa;4.5 km;Variable;7.2 km/h / 2.0 m/s;-;N/A;;Haze
+20160403;9:00 PM;16.0 °C;-;-5.0 °C;23%;1017 hPa;-;SW;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20090416;9:00 PM;13.0 °C;-;-4.0 °C;31%;1011 hPa;-;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20140713;9:00 PM;25.0 °C;-;17.0 °C;61%;1002 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20140824;9:00 PM;26.0 °C;-;19.0 °C;65%;1009 hPa;-;East;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20151215;9:00 PM;-1.0 °C;-8.0 °C;-15.0 °C;34%;1029 hPa;-;NNW;32.4 km/h / 9.0 m/s;-;N/A;;Clear
+20060302;9:00 PM;1.0 °C;-2.3 °C;-17.0 °C;25%;1021 hPa;-;ENE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20060427;9:00 PM;18.0 °C;-;4.0 °C;40%;1013 hPa;10.0 km;South;7.2 km/h / 2.0 m/s;-;N/A;;Mostly Cloudy
+20161108;9:00 PM;2.0 °C;-;-1.0 °C;81%;1034 hPa;8.0 km;SE;3.6 km/h / 1.0 m/s;-;N/A;;Unknown
+20031120;9:00 PM;5.0 °C;0.9 °C;-9.0 °C;36%;1023 hPa;-;NNW;21.6 km/h / 6.0 m/s;-;N/A;;Clear
+20120527;9:00 PM;24.0 °C;-;15.0 °C;57%;1010 hPa;6.0 km;ESE;14.4 km/h / 4.0 m/s;-;N/A;;Unknown
+20130811;9:00 PM;26.0 °C;-;21.0 °C;74%;1006 hPa;6.0 km;West;10.8 km/h / 3.0 m/s;-;N/A;;Overcast
+20120131;9:00 PM;-7.0 °C;-13.7 °C;-28.0 °C;18%;1030 hPa;-;NNE;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20061026;9:00 PM;10.0 °C;-;2.0 °C;58%;1027 hPa;8.0 km;East;10.8 km/h / 3.0 m/s;-;N/A;;Unknown
+20121209;9:00 PM;-5.0 °C;-8.3 °C;-18.0 °C;36%;1027 hPa;-;North;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20050412;9:00 PM;11.0 °C;-5.0 °C;33%;1019 hPa;-;South;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20130922;9:00 PM;20.0 °C;17.0 °C;83%;1014 hPa;3.0 km;NNE;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20150125;9:00 PM;0.0 °C;-2.5 °C;-3.0 °C;80%;1024 hPa;4.0 km;South;7.2 km/h / 2.0 m/s;-;N/A;;Mist
+20100302;9:00 PM;5.0 °C;3.4 °C;-11.0 °C;31%;1024 hPa;-;West;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20050918;9:00 PM;22.0 °C;13.0 °C;57%;1019 hPa;-;SE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20071204;9:00 PM;-2.0 °C;-;-9.0 °C;59%;1037 hPa;6.0 km;Calm;Calm;-;N/A;;Clear
+20110814;9:00 PM;25.0 °C;-;25.0 °C;100%;1002 hPa;2.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Overcast
+20040921;9:00 PM;16.0 °C;10.0 °C;68%;1019 hPa;-;ESE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20170418;9:00 PM;11.0 °C;-3.0 °C;38%;1006 hPa;-;ESE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20120419;9:00 PM;14.0 °C;10.0 °C;77%;1013 hPa;4.0 km;North;7.2 km/h / 2.0 m/s;-;N/A;;Overcast
+20031113;9:00 PM;3.0 °C;-;2.0 °C;93%;1023 hPa;1.3 km;Calm;Calm;-;N/A;;Clear
+20160529;9:00 PM;24.0 °C;10.0 °C;41%;1005 hPa;-;SE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20120930;9:00 PM;14.0 °C;-;9.0 °C;72%;1016 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20040401;9:00 PM;9.0 °C;-;-10.0 °C;25%;1012 hPa;-;ENE;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20090922;9:00 PM;17.0 °C;10.0 °C;63%;1011 hPa;-;SE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20090120;9:00 PM;5.0 °C;2.5 °C;-13.0 °C;26%;1021 hPa;-;SW;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20130411;9:00 PM;8.0 °C;-;-7.0 °C;34%;1017 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20100808;9:00 PM;26.0 °C;-;22.0 °C;78%;1004 hPa;6.0 km;ESE;7.2 km/h / 2.0 m/s;-;N/A;;Unknown
+20060803;9:00 PM;27.0 °C;30.1 °C;24.0 °C;84%;1013 hPa;4.5 km;SE;7.2 km/h / 2.0 m/s;-;N/A;;Overcast
+20130704;9:00 PM;24.0 °C;-;19.0 °C;73%;996 hPa;-;NNW;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20170706;9:00 PM;22.0 °C;-;21.0 °C;94%;1002 hPa;6.0 km;NE;7.2 km/h / 2.0 m/s;-;N/A;Rain;Light Rain Showers
+20080304;9:00 PM;7.0 °C;4.9 °C;-12.0 °C;25%;1023 hPa;-;SE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20030731;9:00 PM;27.0 °C;30.6 °C;25.0 °C;89%;1001 hPa;2.0 km;Calm;Calm;-;N/A;;Mist
+20031211;9:00 PM;0.0 °C;-5.4 °C;-17.0 °C;27%;1034 hPa;-;NW;21.6 km/h / 6.0 m/s;-;N/A;;Clear
+20070114;9:00 PM;-3.0 °C;-;-12.0 °C;51%;1028 hPa;4.0 km;East;3.6 km/h / 1.0 m/s;-;N/A;;Smoke
+20040824;9:00 PM;22.0 °C;-;21.0 °C;94%;1011 hPa;4.0 km;South;7.2 km/h / 2.0 m/s;-;N/A;;Mist
+20140304;9:00 PM;3.0 °C;-1.2 °C;-26.0 °C;10%;1029 hPa;-;NNW;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20140708;9:00 PM;26.0 °C;-;17.0 °C;57%;1004 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20051229;9:00 PM;-3.0 °C;-;-8.0 °C;69%;1031 hPa;2.1 km;North;3.6 km/h / 1.0 m/s;-;N/A;;Smoke
+20140902;9:00 PM;21.0 °C;16.0 °C;73%;1012 hPa;-;NE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20080722;9:00 PM;28.0 °C;30.2 °C;21.0 °C;66%;1003 hPa;-;South;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20060226;9:00 PM;0.0 °C;-3.5 °C;-12.0 °C;41%;1037 hPa;-;SW;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20160329;9:00 PM;15.0 °C;-;-3.0 °C;29%;1015 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20140819;9:00 PM;28.0 °C;29.2 °C;19.0 °C;58%;1010 hPa;-;South;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20041028;9:00 PM;8.0 °C;5.0 °C;81%;1024 hPa;3.0 km;Calm;Calm;-;N/A;;Smoke
+20090412;9:00 PM;19.0 °C;12.0 °C;64%;1008 hPa;3.0 km;East;10.8 km/h / 3.0 m/s;-;N/A;;Haze
+20161103;9:00 PM;2.0 °C;-;1.0 °C;93%;1015 hPa;1.8 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;Fog;Mist
+20040729;9:00 PM;23.0 °C;18.0 °C;73%;1010 hPa;-;NNE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20050913;9:00 PM;18.0 °C;16.0 °C;88%;1020 hPa;-;SE;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20140126;9:00 PM;-1.0 °C;-3.6 °C;-10.0 °C;51%;1023 hPa;-;ESE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20050407;9:00 PM;16.0 °C;-1.0 °C;31%;1016 hPa;7.0 km;East;28.8 km/h / 8.0 m/s;-;N/A;;Widespread Dust
+20120119;9:00 PM;-6.0 °C;-;-8.0 °C;86%;1030 hPa;2.0 km;East;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20061022;9:00 PM;10.0 °C;-1.0 °C;47%;1029 hPa;-;North;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20100225;9:00 PM;4.0 °C;-0.8 °C;-6.0 °C;49%;1019 hPa;7.0 km;South;25.2 km/h / 7.0 m/s;-;N/A;;Overcast
+20130806;9:00 PM;29.0 °C;35.6 °C;26.0 °C;84%;1000 hPa;2.5 km;SE;7.2 km/h / 2.0 m/s;-;N/A;;Mist
+20130917;9:00 PM;19.0 °C;17.0 °C;88%;1018 hPa;3.5 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20151210;9:00 PM;0.0 °C;-3.5 °C;-8.0 °C;55%;1029 hPa;-;North;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20150120;9:00 PM;-1.0 °C;-;-8.0 °C;60%;1023 hPa;7.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Unknown
+20120522;9:00 PM;24.0 °C;-;13.0 °C;50%;1008 hPa;-;SSW;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20031106;9:00 PM;0.0 °C;-2.5 °C;0.0 °C;100%;1030 hPa;1.4 km;Variable;7.2 km/h / 2.0 m/s;-;N/A;Snow;Light Snow
+20121204;9:00 PM;-4.0 °C;-7.1 °C;-12.0 °C;54%;1021 hPa;6.0 km;North;7.2 km/h / 2.0 m/s;-;N/A;;Unknown
+20071129;9:00 PM;-1.0 °C;-;-9.0 °C;55%;1032 hPa;8.0 km;North;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20170413;9:00 PM;14.0 °C;-;2.0 °C;44%;1005 hPa;-;East;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20040325;9:00 PM;11.0 °C;-;-5.0 °C;33%;1019 hPa;8.0 km;South;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20060730;9:00 PM;29.0 °C;38.1 °C;28.0 °C;94%;1007 hPa;1.4 km;ESE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20100803;9:00 PM;27.0 °C;28.9 °C;21.0 °C;70%;1002 hPa;5.0 km;ENE;3.6 km/h / 1.0 m/s;-;N/A;;Haze
+20110809;9:00 PM;22.0 °C;-;21.0 °C;94%;1006 hPa;10.0 km;ESE;18.0 km/h / 5.0 m/s;-;N/A;Rain;Light Rain Showers
+20120925;9:00 PM;16.0 °C;14.0 °C;88%;1020 hPa;10.0 km;North;10.8 km/h / 3.0 m/s;-;N/A;Rain;Light Rain
+20120415;9:00 PM;15.0 °C;3.0 °C;45%;1015 hPa;8.0 km;South;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20090115;9:00 PM;-7.0 °C;-;-18.0 °C;42%;1027 hPa;6.0 km;Calm;Calm;-;N/A;;Clear
+20130407;9:00 PM;12.0 °C;-;-2.0 °C;38%;1008 hPa;-;NW;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20070109;9:00 PM;-1.0 °C;-4.7 °C;-12.0 °C;44%;1029 hPa;4.0 km;East;10.8 km/h / 3.0 m/s;-;N/A;;Smoke
+20040916;9:00 PM;21.0 °C;20.0 °C;94%;1013 hPa;1.8 km;Variable;7.2 km/h / 2.0 m/s;-;N/A;;Mist
+20040819;9:00 PM;26.0 °C;-;20.0 °C;69%;1010 hPa;-;SSW;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20160524;9:00 PM;25.0 °C;5.0 °C;28%;1001 hPa;-;WNW;32.4 km/h / 9.0 m/s;-;N/A;;Clear
+20080228;9:00 PM;11.0 °C;-;-18.0 °C;12%;1011 hPa;-;NW;21.6 km/h / 6.0 m/s;-;N/A;;Clear
+20140227;9:00 PM;1.0 °C;-;-16.0 °C;28%;1028 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20090917;9:00 PM;21.0 °C;-;19.0 °C;88%;1013 hPa;4.5 km;ESE;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20030724;9:00 PM;26.0 °C;-;23.0 °C;83%;1006 hPa;7.0 km;SE;10.8 km/h / 3.0 m/s;-;N/A;;Overcast
+20080717;9:00 PM;28.0 °C;30.2 °C;21.0 °C;66%;1003 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20130630;9:00 PM;26.0 °C;-;23.0 °C;83%;1002 hPa;2.5 km;SSE;10.8 km/h / 3.0 m/s;-;N/A;;Mist
+20170702;9:00 PM;29.0 °C;30.7 °C;20.0 °C;58%;1003 hPa;-;SSE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20060221;9:00 PM;1.0 °C;-3.0 °C;-19.0 °C;22%;1031 hPa;-;North;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20051225;9:00 PM;-2.0 °C;-6.7 °C;-18.0 °C;29%;1028 hPa;-;North;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20050403;9:00 PM;14.0 °C;-;-3.0 °C;31%;1016 hPa;-;SE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20140121;9:00 PM;-1.0 °C;-3.6 °C;-19.0 °C;25%;1028 hPa;8.0 km;South;7.2 km/h / 2.0 m/s;-;N/A;;Unknown
+20140814;9:00 PM;27.0 °C;27.5 °C;16.0 °C;51%;1007 hPa;-;West;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20160324;9:00 PM;11.0 °C;-;-12.0 °C;19%;1030 hPa;-;SSW;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20140703;9:00 PM;26.0 °C;-;23.0 °C;83%;1001 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20041024;9:00 PM;8.0 °C;-;6.0 °C;87%;1026 hPa;3.0 km;Calm;Calm;-;N/A;;Clear
+20090407;9:00 PM;17.0 °C;-1.0 °C;30%;1013 hPa;8.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20140810;9:00 PM;27.0 °C;28.2 °C;19.0 °C;61%;1002 hPa;-;ESE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20031204;9:00 PM;1.0 °C;-1.3 °C;-3.0 °C;75%;1028 hPa;5.0 km;WNW;7.2 km/h / 2.0 m/s;-;N/A;;Mist
+20061017;9:00 PM;12.0 °C;4.0 °C;58%;1024 hPa;-;SE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20130625;9:00 PM;22.0 °C;21.0 °C;94%;998 hPa;1.7 km;South;7.2 km/h / 2.0 m/s;-;N/A;;Overcast
+20151206;9:00 PM;0.0 °C;-;-3.0 °C;80%;1031 hPa;4.0 km;North;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20100221;9:00 PM;4.0 °C;2.2 °C;-12.0 °C;31%;1017 hPa;-;South;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20150115;9:00 PM;-4.0 °C;-;-6.0 °C;86%;1026 hPa;1.2 km;ENE;3.6 km/h / 1.0 m/s;-;N/A;;Haze
+20040318;9:00 PM;7.0 °C;5.7 °C;-11.0 °C;27%;1025 hPa;-;South;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20040722;9:00 PM;29.0 °C;36.8 °C;27.0 °C;89%;1004 hPa;4.0 km;South;7.2 km/h / 2.0 m/s;-;N/A;;Mist
+20120115;9:00 PM;-5.0 °C;-;-11.0 °C;63%;1022 hPa;4.0 km;Calm;Calm;-;N/A;;Haze
+20120517;9:00 PM;20.0 °C;9.0 °C;49%;1007 hPa;-;ESE;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20060725;
+20121129;9:00 PM;-4.0 °C;-;-9.0 °C;69%;1024 hPa;6.0 km;ENE;3.6 km/h / 1.0 m/s;-;N/A;;Unknown
+20170409;9:00 PM;14.0 °C;-;0.0 °C;38%;1017 hPa;-;SSW;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20050908;9:00 PM;23.0 °C;-;16.0 °C;65%;1012 hPa;8.0 km;SE;7.2 km/h / 2.0 m/s;-;N/A;;Unknown
+20130912;9:00 PM;22.0 °C;-;18.0 °C;78%;1009 hPa;3.5 km;East;7.2 km/h / 2.0 m/s;-;N/A;;Partly Cloudy
+20031030;9:00 PM;10.0 °C;-;8.0 °C;87%;1016 hPa;1.5 km;Calm;Calm;-;N/A;;Mist
+20110804;9:00 PM;25.0 °C;-;21.0 °C;78%;1006 hPa;7.0 km;SE;7.2 km/h / 2.0 m/s;-;N/A;;Unknown
+20071125;9:00 PM;5.0 °C;-0.4 °C;-19.0 °C;16%;1032 hPa;-;NNW;36.0 km/h / 10.0 m/s;-;N/A;;Clear
+20161030;9:00 PM;7.0 °C;3.1 °C;-9.0 °C;31%;1032 hPa;-;NNW;25.2 km/h / 7.0 m/s;-;N/A;;Clear
+20120920;9:00 PM;19.0 °C;-;16.0 °C;83%;1013 hPa;7.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Unknown
+20070104;9:00 PM;-4.0 °C;-;-6.0 °C;86%;1029 hPa;1.1 km;East;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20100729;9:00 PM;30.0 °C;40.4 °C;28.0 °C;89%;997 hPa;1.8 km;North;7.2 km/h / 2.0 m/s;-;N/A;Rain;Light Rain Showers
+20040912;9:00 PM;21.0 °C;-;16.0 °C;73%;1017 hPa;7.0 km;North;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20030717;9:00 PM;23.0 °C;19.0 °C;78%;1004 hPa;-;East;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20130402;9:00 PM;11.0 °C;-;-2.0 °C;41%;1012 hPa;7.0 km;ESE;7.2 km/h / 2.0 m/s;-;N/A;;Unknown
+20120410;9:00 PM;14.0 °C;12.0 °C;88%;1011 hPa;10.0 km;NNE;7.2 km/h / 2.0 m/s;-;N/A;;Partly Cloudy
+20040715;9:00 PM;24.0 °C;-;22.0 °C;89%;1007 hPa;5.0 km;South;10.8 km/h / 3.0 m/s;-;N/A;;Mist
+20040812;9:00 PM;17.0 °C;17.0 °C;100%;1015 hPa;10.0 km;ESE;10.8 km/h / 3.0 m/s;-;N/A;;Mostly Cloudy
+20090111;9:00 PM;-5.0 °C;-14.0 °C;-23.0 °C;24%;1039 hPa;-;NNW;39.6 km/h / 11.0 m/s;-;N/A;;Clear
+20050821;9:00 PM;25.0 °C;-;21.0 °C;78%;1013 hPa;-;East;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20140223;9:00 PM;2.0 °C;-;-5.0 °C;60%;1030 hPa;1.6 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Haze
+20130616;9:00 PM;22.0 °C;19.0 °C;83%;1004 hPa;2.5 km;North;10.8 km/h / 3.0 m/s;-;N/A;;Mist
+20050329;9:00 PM;14.0 °C;-;-7.0 °C;23%;1017 hPa;-;SSW;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20140731;9:00 PM;27.0 °C;29.2 °C;22.0 °C;74%;1006 hPa;3.5 km;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Haze
+20060216;9:00 PM;-3.0 °C;-5.9 °C;-26.0 °C;16%;1035 hPa;-;North;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20160519;9:00 PM;24.0 °C;-;9.0 °C;38%;1014 hPa;-;SE;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20080224;9:00 PM;-1.0 °C;-5.5 °C;-10.0 °C;51%;1031 hPa;-;SSW;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20051220;9:00 PM;-6.0 °C;-14.1 °C;-22.0 °C;28%;1037 hPa;-;NW;28.8 km/h / 8.0 m/s;-;N/A;;Clear
+20090913;9:00 PM;19.0 °C;-;13.0 °C;68%;1012 hPa;-;SE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20041019;9:00 PM;15.0 °C;12.0 °C;82%;1021 hPa;4.0 km;ESE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20100209;9:00 PM;-1.0 °C;-4.7 °C;-8.0 °C;60%;1026 hPa;8.0 km;NNE;10.8 km/h / 3.0 m/s;-;N/A;;Unknown
+20120110;9:00 PM;-3.0 °C;-9.8 °C;-18.0 °C;31%;1039 hPa;-;NNW;25.2 km/h / 7.0 m/s;-;N/A;;Clear
+20150111;9:00 PM;3.0 °C;0.1 °C;-8.0 °C;45%;1036 hPa;8.0 km;SSW;10.8 km/h / 3.0 m/s;-;N/A;;Unknown
+20170627;9:00 PM;29.0 °C;30.3 °C;19.0 °C;55%;1006 hPa;10.0 km;SW;7.2 km/h / 2.0 m/s;-;N/A;;Partly Cloudy
+20060721;9:00 PM;28.0 °C;28.8 °C;18.0 °C;54%;1003 hPa;-;North;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20061012;9:00 PM;17.0 °C;13.0 °C;77%;1022 hPa;4.0 km;East;10.8 km/h / 3.0 m/s;-;N/A;;Mist
+20140116;9:00 PM;-1.0 °C;-;-5.0 °C;75%;1031 hPa;1.5 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Haze
+20090402;9:00 PM;12.0 °C;-;-3.0 °C;35%;1020 hPa;7.0 km;South;10.8 km/h / 3.0 m/s;-;N/A;;Unknown
+20140805;9:00 PM;26.0 °C;-;21.0 °C;74%;1007 hPa;-;SSE;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20140629;9:00 PM;29.0 °C;29.1 °C;16.0 °C;45%;1005 hPa;-;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20050904;9:00 PM;21.0 °C;-;12.0 °C;56%;1017 hPa;-;South;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20040311;9:00 PM;11.0 °C;-;-11.0 °C;21%;1017 hPa;-;South;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20130620;9:00 PM;26.0 °C;-;16.0 °C;54%;1009 hPa;6.0 km;South;7.2 km/h / 2.0 m/s;-;N/A;;Mostly Cloudy
+20121125;9:00 PM;0.0 °C;-;-14.0 °C;35%;1023 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20160320;9:00 PM;13.0 °C;-;-5.0 °C;29%;1025 hPa;-;South;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20100126;9:00 PM;-6.0 °C;-9.4 °C;-13.0 °C;58%;1020 hPa;4.0 km;North;7.2 km/h / 2.0 m/s;-;N/A;;Haze
+20151201;9:00 PM;0.0 °C;-2.5 °C;0.0 °C;100%;1020 hPa;-;South;7.2 km/h / 2.0 m/s;-;N/A;Fog;Fog
+20161025;9:00 PM;10.0 °C;-;9.0 °C;94%;1016 hPa;6.0 km;ENE;3.6 km/h / 1.0 m/s;-;N/A;;Unknown
+20120823;9:00 PM;23.0 °C;-;17.0 °C;69%;1014 hPa;-;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20120513;9:00 PM;18.0 °C;13.0 °C;73%;1007 hPa;6.0 km;North;21.6 km/h / 6.0 m/s;-;N/A;;Overcast
+20030626;9:00 PM;21.0 °C;20.0 °C;94%;1002 hPa;-;NW;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20071120;9:00 PM;1.0 °C;-;-5.0 °C;65%;1024 hPa;8.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Unknown
+20110731;9:00 PM;29.0 °C;33.5 °C;24.0 °C;74%;1003 hPa;-;South;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20100725;9:00 PM;30.0 °C;34.1 °C;23.0 °C;66%;1009 hPa;5.0 km;SE;7.2 km/h / 2.0 m/s;-;N/A;;Haze
+20130908;9:00 PM;21.0 °C;16.0 °C;73%;1015 hPa;6.0 km;NE;3.6 km/h / 1.0 m/s;-;N/A;;Partly Cloudy
+20120916;9:00 PM;17.0 °C;13.0 °C;77%;1018 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20061231;9:00 PM;-6.0 °C;-9.4 °C;-7.0 °C;93%;1032 hPa;1.5 km;NE;7.2 km/h / 2.0 m/s;-;N/A;;Mostly Cloudy
+20170404;9:00 PM;17.0 °C;6.0 °C;48%;1014 hPa;-;SW;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20040907;9:00 PM;23.0 °C;-;12.0 °C;50%;1010 hPa;-;West;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20040805;9:00 PM;23.0 °C;-;20.0 °C;83%;1008 hPa;-;South;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20030710;9:00 PM;27.0 °C;27.9 °C;18.0 °C;58%;1004 hPa;-;SE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20120405;9:00 PM;14.0 °C;-;-12.0 °C;16%;1016 hPa;-;North;21.6 km/h / 6.0 m/s;-;N/A;;Clear
+20130328;9:00 PM;8.0 °C;6.9 °C;-4.0 °C;43%;1021 hPa;-;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20140727;9:00 PM;29.0 °C;30.3 °C;19.0 °C;55%;1005 hPa;8.0 km;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Unknown
+20160515;9:00 PM;15.0 °C;3.0 °C;45%;1011 hPa;-;South;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20090106;9:00 PM;-1.0 °C;-3.6 °C;-16.0 °C;32%;1033 hPa;-;NNW;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20040708;9:00 PM;24.0 °C;-;20.0 °C;78%;1008 hPa;10.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;Thunderstorm;Light Thunderstorm
+20090908;9:00 PM;14.0 °C;13.0 °C;94%;1015 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20080219;9:00 PM;7.0 °C;4.3 °C;-10.0 °C;29%;1027 hPa;-;WSW;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20140218;9:00 PM;-1.0 °C;-3.6 °C;-11.0 °C;47%;1029 hPa;6.0 km;ENE;7.2 km/h / 2.0 m/s;-;N/A;;Unknown
+20130611;9:00 PM;21.0 °C;12.0 °C;56%;1008 hPa;10.0 km;East;18.0 km/h / 5.0 m/s;-;N/A;;Partly Cloudy
+20060716;9:00 PM;27.0 °C;30.6 °C;25.0 °C;89%;1007 hPa;8.0 km;SSE;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20140112;9:00 PM;-4.0 °C;-;-22.0 °C;24%;1035 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20150106;9:00 PM;2.0 °C;-1.1 °C;-20.0 °C;18%;1026 hPa;-;West;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20090329;9:00 PM;3.0 °C;1.0 °C;-4.0 °C;60%;1028 hPa;-;NNE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20050816;9:00 PM;18.0 °C;18.0 °C;100%;1015 hPa;10.0 km;NE;18.0 km/h / 5.0 m/s;-;N/A;Rain;Light Rain
+20040304;9:00 PM;1.0 °C;-1.3 °C;-4.0 °C;70%;1015 hPa;-;North;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20060212;9:00 PM;-2.0 °C;-;-4.0 °C;86%;1017 hPa;2.0 km;NE;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20061008;9:00 PM;15.0 °C;13.0 °C;88%;1016 hPa;10.0 km;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Mostly Cloudy
+20160315;9:00 PM;5.0 °C;-;-2.0 °C;61%;1016 hPa;4.0 km;ESE;3.6 km/h / 1.0 m/s;-;N/A;;Haze
+20050324;9:00 PM;6.0 °C;4.5 °C;-15.0 °C;21%;1020 hPa;-;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20041014;9:00 PM;10.0 °C;-;5.0 °C;71%;1024 hPa;-;Calm;Calm;-;N/A;;Clear
+20030619;9:00 PM;28.0 °C;30.2 °C;21.0 °C;66%;999 hPa;4.5 km;ESE;7.2 km/h / 2.0 m/s;-;N/A;;Smoke
+20170622;9:00 PM;20.0 °C;19.0 °C;94%;1007 hPa;4.0 km;ESE;18.0 km/h / 5.0 m/s;-;N/A;Rain;Light Rain
+20120105;9:00 PM;-7.0 °C;-;-16.0 °C;49%;1030 hPa;8.0 km;North;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20161020;9:00 PM;10.0 °C;9.0 °C;94%;1023 hPa;6.0 km;North;14.4 km/h / 4.0 m/s;-;N/A;Rain;Light Rain
+20051215;9:00 PM;-1.0 °C;-5.5 °C;-21.0 °C;21%;1029 hPa;-;WNW;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20071115;9:00 PM;-3.0 °C;-;-8.0 °C;69%;1035 hPa;-;Calm;Calm;-;N/A;;Clear
+20110726;9:00 PM;28.0 °C;32.7 °C;25.0 °C;84%;1000 hPa;-;ESE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20050830;9:00 PM;25.0 °C;-;24.0 °C;94%;1010 hPa;2.5 km;ESE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20140624;9:00 PM;27.0 °C;27.5 °C;16.0 °C;51%;1003 hPa;-;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20121120;9:00 PM;2.0 °C;-;-2.0 °C;75%;1023 hPa;3.5 km;ESE;3.6 km/h / 1.0 m/s;-;N/A;;Haze
+20100121;9:00 PM;-8.0 °C;-;-17.0 °C;49%;1035 hPa;-;NNE;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20151126;9:00 PM;-9.0 °C;-;-12.0 °C;79%;1030 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20061226;9:00 PM;-1.0 °C;-3.6 °C;-5.0 °C;75%;1031 hPa;4.0 km;SSW;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20100204;9:00 PM;-5.0 °C;-8.3 °C;-20.0 °C;31%;1027 hPa;-;North;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20120911;9:00 PM;18.0 °C;18.0 °C;100%;1009 hPa;8.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;Rain , Thunderstorm;Light Thunderstorms and Rain
+20100720;9:00 PM;25.0 °C;-;21.0 °C;78%;1005 hPa;-;South;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20120819;9:00 PM;24.0 °C;-;22.0 °C;89%;1005 hPa;6.0 km;SE;7.2 km/h / 2.0 m/s;-;N/A;;Unknown
+20130903;9:00 PM;23.0 °C;-;16.0 °C;65%;1016 hPa;6.0 km;SE;10.8 km/h / 3.0 m/s;-;N/A;;Unknown
+20040902;9:00 PM;24.0 °C;-;18.0 °C;69%;1011 hPa;-;South;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20030703;9:00 PM;23.0 °C;-;21.0 °C;88%;1000 hPa;10.0 km;NNE;3.6 km/h / 1.0 m/s;-;N/A;;Unknown
+20170330;9:00 PM;12.0 °C;-3.0 °C;35%;1027 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20120508;9:00 PM;24.0 °C;6.0 °C;31%;1010 hPa;8.0 km;South;7.2 km/h / 2.0 m/s;-;N/A;;Unknown
+20140722;9:00 PM;28.0 °C;28.3 °C;16.0 °C;48%;1006 hPa;-;NW;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20120401;9:00 PM;7.0 °C;4.9 °C;-9.0 °C;31%;1016 hPa;-;SE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20160510;9:00 PM;22.0 °C;10.0 °C;46%;1006 hPa;-;South;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20080214;9:00 PM;-6.0 °C;-9.4 °C;-15.0 °C;50%;1028 hPa;-;NNE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20040701;9:00 PM;20.0 °C;19.0 °C;94%;1000 hPa;1.7 km;North;10.8 km/h / 3.0 m/s;-;N/A;;Mist
+20130324;9:00 PM;5.0 °C;3.4 °C;-13.0 °C;26%;1020 hPa;-;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20090324;9:00 PM;6.0 °C;3.7 °C;-24.0 °C;10%;1024 hPa;-;NNW;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20090903;9:00 PM;22.0 °C;-;20.0 °C;88%;1012 hPa;4.0 km;East;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20050320;9:00 PM;7.0 °C;3.8 °C;-8.0 °C;34%;1022 hPa;-;South;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20061003;9:00 PM;21.0 °C;-;15.0 °C;68%;1014 hPa;-;NE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20030424;9:00 PM;19.0 °C;3.0 °C;35%;1009 hPa;-;South;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20140213;9:00 PM;-3.0 °C;-5.9 °C;-10.0 °C;59%;1032 hPa;3.5 km;ENE;7.2 km/h / 2.0 m/s;-;N/A;;Haze
+20130606;9:00 PM;20.0 °C;19.0 °C;94%;1009 hPa;4.0 km;NNW;7.2 km/h / 2.0 m/s;-;N/A;;Overcast
+20051211;9:00 PM;-5.0 °C;-12.8 °C;-23.0 °C;24%;1036 hPa;-;North;28.8 km/h / 8.0 m/s;-;N/A;;Clear
+20140107;9:00 PM;0.0 °C;-4.3 °C;-20.0 °C;21%;1031 hPa;-;North;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20161016;9:00 PM;14.0 °C;13.0 °C;94%;1017 hPa;4.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20170618;9:00 PM;24.0 °C;-;18.0 °C;69%;1004 hPa;-;NNE;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20050811;9:00 PM;29.0 °C;39.7 °C;29.0 °C;100%;1002 hPa;1.5 km;SE;7.2 km/h / 2.0 m/s;-;N/A;;Mist
+20091220;9:00 PM;-1.0 °C;-6.7 °C;-22.0 °C;19%;1029 hPa;-;NW;21.6 km/h / 6.0 m/s;-;N/A;;Clear
+20030612;9:00 PM;19.0 °C;14.0 °C;73%;1005 hPa;-;West;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20090101;9:00 PM;-6.0 °C;-;-15.0 °C;50%;1036 hPa;7.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20121115;9:00 PM;2.0 °C;-1.1 °C;1.0 °C;93%;1026 hPa;3.0 km;WNW;10.8 km/h / 3.0 m/s;-;N/A;Rain , Snow;Light Rain
+20060207;9:00 PM;-5.0 °C;-12.8 °C;-20.0 °C;31%;1039 hPa;-;NNW;28.8 km/h / 8.0 m/s;-;N/A;;Clear
+20041010;9:00 PM;17.0 °C;16.0 °C;94%;1017 hPa;1.2 km;North;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20050825;9:00 PM;24.0 °C;-;20.0 °C;78%;1010 hPa;7.0 km;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20120101;9:00 PM;-6.0 °C;-;-15.0 °C;50%;1032 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20160310;9:00 PM;4.0 °C;0.6 °C;-18.0 °C;19%;1028 hPa;-;NW;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20100117;9:00 PM;-7.0 °C;-;-10.0 °C;80%;1027 hPa;3.5 km;Calm;Calm;-;N/A;;Clear
+20120906;9:00 PM;18.0 °C;17.0 °C;94%;1017 hPa;2.5 km;North;3.6 km/h / 1.0 m/s;-;N/A;Rain;Light Rain
+20100131;9:00 PM;-1.0 °C;-6.7 °C;-8.0 °C;60%;1026 hPa;-;SE;21.6 km/h / 6.0 m/s;-;N/A;;Clear
+20150101;9:00 PM;-8.0 °C;-;-19.0 °C;42%;1026 hPa;6.0 km;ENE;3.6 km/h / 1.0 m/s;-;N/A;;Unknown
+20100715;9:00 PM;24.0 °C;22.0 °C;89%;1005 hPa;1.5 km;ESE;7.2 km/h / 2.0 m/s;-;N/A;;Overcast
+20130829;9:00 PM;23.0 °C;9.0 °C;41%;1007 hPa;-;NNW;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20030529;9:00 PM;23.0 °C;-;19.0 °C;78%;1008 hPa;-;East;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20040829;9:00 PM;22.0 °C;-;16.0 °C;69%;1008 hPa;-;SE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20120814;9:00 PM;20.0 °C;15.0 °C;73%;1006 hPa;-;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20061221;9:00 PM;0.0 °C;-4.3 °C;-10.0 °C;48%;1029 hPa;6.0 km;NNW;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20140619;9:00 PM;23.0 °C;-;18.0 °C;73%;1006 hPa;6.0 km;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Unknown
+20151122;9:00 PM;-4.0 °C;-;-4.0 °C;100%;1037 hPa;6.0 km;SSW;3.6 km/h / 1.0 m/s;-;N/A;Snow;Light Snow
+20170326;9:00 PM;10.0 °C;-;-4.0 °C;37%;1021 hPa;-;WNW;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20120503;9:00 PM;21.0 °C;10.0 °C;49%;1006 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20110721;9:00 PM;25.0 °C;-;23.0 °C;89%;1003 hPa;4.0 km;SE;7.2 km/h / 2.0 m/s;-;N/A;;Overcast
+20140605;9:00 PM;30.0 °C;29.4 °C;14.0 °C;37%;1003 hPa;-;South;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20120805;9:00 PM;28.0 °C;31.2 °C;23.0 °C;74%;1010 hPa;8.0 km;South;10.8 km/h / 3.0 m/s;-;N/A;;Unknown
+20120327;9:00 PM;13.0 °C;-;-4.0 °C;31%;1021 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20160505;9:00 PM;17.0 °C;11.0 °C;68%;1006 hPa;-;ENE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20080203;9:00 PM;-6.0 °C;-;-19.0 °C;36%;1026 hPa;7.0 km;North;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20090830;9:00 PM;21.0 °C;-;18.0 °C;83%;1014 hPa;6.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Unknown
+20150825;9:00 PM;23.0 °C;-;20.0 °C;83%;1010 hPa;-;SE;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20030327;9:00 PM;10.0 °C;-;-8.0 °C;28%;1020 hPa;-;South;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20030417;9:00 PM;14.0 °C;-3.0 °C;31%;1019 hPa;-;North;21.6 km/h / 6.0 m/s;39.6 km/h / 11.0 m/s;N/A;;Clear
+20100107;9:00 PM;-14.0 °C;-;-19.0 °C;67%;1032 hPa;-;Calm;Calm;-;N/A;;Clear
+20130319;9:00 PM;1.0 °C;-;0.0 °C;93%;1020 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;Rain , Snow;Light Snow
+20051206;9:00 PM;-5.0 °C;-13.3 °C;-20.0 °C;31%;1033 hPa;-;NW;32.4 km/h / 9.0 m/s;-;N/A;;Clear
+20030515;9:00 PM;20.0 °C;15.0 °C;73%;1014 hPa;7.0 km;South;10.8 km/h / 3.0 m/s;-;N/A;;Unknown
+20140209;9:00 PM;-5.0 °C;-11.2 °C;-19.0 °C;33%;1036 hPa;-;NNW;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20050807;9:00 PM;26.0 °C;-;25.0 °C;94%;1009 hPa;6.0 km;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Unknown
+20090319;9:00 PM;10.0 °C;-;-2.0 °C;43%;1020 hPa;-;SSE;21.6 km/h / 6.0 m/s;-;N/A;;Clear
+20030605;9:00 PM;22.0 °C;-;17.0 °C;73%;1008 hPa;-;SSE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20161011;9:00 PM;12.0 °C;-;9.0 °C;82%;1025 hPa;7.0 km;South;7.2 km/h / 2.0 m/s;-;N/A;;Unknown
+20050315;9:00 PM;9.0 °C;-;-10.0 °C;25%;1017 hPa;-;SSW;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20041005;9:00 PM;16.0 °C;12.0 °C;77%;1019 hPa;4.0 km;ESE;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20081228;9:00 PM;-5.0 °C;-9.5 °C;-8.0 °C;80%;1027 hPa;6.0 km;North;10.8 km/h / 3.0 m/s;-;N/A;;Unknown
+20030313;9:00 PM;2.0 °C;-0.1 °C;-4.0 °C;65%;1034 hPa;-;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20170613;9:00 PM;21.0 °C;-;15.0 °C;68%;1014 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20091215;9:00 PM;-3.0 °C;-7.1 °C;-17.0 °C;34%;1035 hPa;-;West;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20050626;9:00 PM;22.0 °C;-;21.0 °C;94%;1000 hPa;4.5 km;WNW;18.0 km/h / 5.0 m/s;-;N/A;Rain;Light Rain
+20121111;9:00 PM;3.0 °C;-1.6 °C;-12.0 °C;33%;1018 hPa;-;WNW;21.6 km/h / 6.0 m/s;-;N/A;;Clear
+20160306;9:00 PM;5.0 °C;-;-9.0 °C;36%;1016 hPa;5.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Haze
+20050714;9:00 PM;29.0 °C;35.6 °C;26.0 °C;84%;1008 hPa;2.5 km;SE;10.8 km/h / 3.0 m/s;-;N/A;;Mist
+20100112;9:00 PM;-12.0 °C;-21.9 °C;-24.0 °C;37%;1033 hPa;-;NW;28.8 km/h / 8.0 m/s;-;N/A;;Clear
+20141223;9:00 PM;-2.0 °C;-4.8 °C;-14.0 °C;40%;1022 hPa;-;North;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20140102;9:00 PM;0.0 °C;-;-8.0 °C;55%;1017 hPa;4.0 km;East;3.6 km/h / 1.0 m/s;-;N/A;;Haze
+20120902;9:00 PM;20.0 °C;16.0 °C;78%;1011 hPa;-;North;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20111227;9:00 PM;-6.0 °C;-;-9.0 °C;80%;1030 hPa;-;East;3.6 km/h / 1.0 m/s;-;N/A;;Haze
+20030522;9:00 PM;23.0 °C;-;14.0 °C;57%;1008 hPa;10.0 km;ESE;10.8 km/h / 3.0 m/s;-;N/A;;Mostly Cloudy
+20141228;9:00 PM;1.0 °C;-;-13.0 °C;35%;1017 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20130825;9:00 PM;27.0 °C;27.5 °C;16.0 °C;51%;1004 hPa;-;SSE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20120429;9:00 PM;15.0 °C;-;3.0 °C;45%;1010 hPa;5.0 km;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20120809;9:00 PM;27.0 °C;29.2 °C;22.0 °C;74%;1007 hPa;-;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20140615;9:00 PM;21.0 °C;-;18.0 °C;83%;1004 hPa;10.0 km;ESE;14.4 km/h / 4.0 m/s;-;N/A;Rain , Thunderstorm;Light Thunderstorms and Rain
+20140601;9:00 PM;19.0 °C;-;17.0 °C;88%;1011 hPa;-;North;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20110717;9:00 PM;24.0 °C;-;21.0 °C;83%;1005 hPa;6.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Overcast
+20120731;9:00 PM;21.0 °C;20.0 °C;94%;1008 hPa;7.0 km;North;10.8 km/h / 3.0 m/s;-;N/A;Rain;Light Rain
+20151117;9:00 PM;5.0 °C;3.4 °C;1.0 °C;76%;1029 hPa;-;SE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20030410;9:00 PM;6.0 °C;-;5.0 °C;93%;1015 hPa;4.0 km;North;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20030320;9:00 PM;4.0 °C;0.6 °C;2.0 °C;87%;1022 hPa;10.0 km;North;14.4 km/h / 4.0 m/s;-;N/A;Rain;Light Rain
+20170321;9:00 PM;11.0 °C;-;0.0 °C;47%;1022 hPa;7.0 km;South;14.4 km/h / 4.0 m/s;-;N/A;;Unknown
+20160501;9:00 PM;27.0 °C;27.9 °C;18.0 °C;58%;1002 hPa;3.5 km;SW;7.2 km/h / 2.0 m/s;-;N/A;;Haze
+20120322;9:00 PM;8.0 °C;5.6 °C;-3.0 °C;46%;1021 hPa;8.0 km;SSW;14.4 km/h / 4.0 m/s;-;N/A;;Unknown
+20030508;9:00 PM;16.0 °C;10.0 °C;68%;1020 hPa;-;SW;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20050310;9:00 PM;0.0 °C;-4.3 °C;-17.0 °C;27%;1028 hPa;-;NNW;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20050616;9:00 PM;24.0 °C;-;19.0 °C;73%;1002 hPa;10.0 km;SE;39.6 km/h / 11.0 m/s;-;N/A;Rain , Thunderstorm;Light Thunderstorms and Rain
+20091229;9:00 PM;-4.0 °C;-9.2 °C;-19.0 °C;31%;1022 hPa;-;North;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20150820;9:00 PM;26.0 °C;-;19.0 °C;65%;1006 hPa;-;NE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20111110;9:00 PM;5.0 °C;-;0.0 °C;70%;1017 hPa;8.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20100103;9:00 PM;-10.0 °C;-15.5 °C;-11.0 °C;93%;1023 hPa;4.0 km;WNW;10.8 km/h / 3.0 m/s;-;N/A;Snow;Light Snow
+20030306;9:00 PM;1.0 °C;-1.3 °C;-1.0 °C;87%;1023 hPa;2.0 km;SW;7.2 km/h / 2.0 m/s;-;N/A;;Mist
+20091201;9:00 PM;-1.0 °C;-;-4.0 °C;80%;1025 hPa;4.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20130314;9:00 PM;3.0 °C;-;-4.0 °C;60%;1024 hPa;5.0 km;ESE;3.6 km/h / 1.0 m/s;-;N/A;;Haze
+20050802;9:00 PM;27.0 °C;28.9 °C;21.0 °C;70%;1001 hPa;-;NE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20051201;9:00 PM;1.0 °C;-2.3 °C;-17.0 °C;25%;1030 hPa;-;NE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20091210;9:00 PM;1.0 °C;-;-2.0 °C;81%;1019 hPa;2.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20050621;9:00 PM;29.0 °C;29.8 °C;18.0 °C;51%;1000 hPa;6.0 km;ESE;21.6 km/h / 6.0 m/s;-;N/A;;Widespread Dust
+20131219;9:00 PM;-6.0 °C;-9.4 °C;-17.0 °C;42%;1032 hPa;-;North;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20090825;9:00 PM;23.0 °C;22.0 °C;94%;1007 hPa;2.0 km;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Overcast
+20081223;9:00 PM;-4.0 °C;-;-15.0 °C;43%;1021 hPa;8.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Unknown
+20121106;9:00 PM;7.0 °C;4.9 °C;1.0 °C;66%;1020 hPa;5.0 km;WNW;10.8 km/h / 3.0 m/s;-;N/A;;Mist
+20131201;9:00 PM;1.0 °C;-;-11.0 °C;41%;1021 hPa;7.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Unknown
+20141218;9:00 PM;-4.0 °C;-;-7.0 °C;80%;1025 hPa;5.0 km;ENE;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20141116;9:00 PM;8.0 °C;4.7 °C;-7.0 °C;34%;1029 hPa;-;NW;21.6 km/h / 6.0 m/s;-;N/A;;Clear
+20120828;9:00 PM;27.0 °C;29.6 °C;23.0 °C;79%;1000 hPa;4.5 km;SE;7.2 km/h / 2.0 m/s;-;N/A;;Haze
+20120318;9:00 PM;3.0 °C;1.0 °C;-3.0 °C;65%;1027 hPa;-;WSW;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20050710;9:00 PM;27.0 °C;29.2 °C;22.0 °C;74%;1003 hPa;-;East;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20111222;9:00 PM;-7.0 °C;-10.6 °C;-16.0 °C;49%;1030 hPa;-;NNE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20091122;9:00 PM;0.0 °C;-2.5 °C;-6.0 °C;64%;1020 hPa;3.0 km;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Haze
+20110712;9:00 PM;27.0 °C;28.9 °C;21.0 °C;70%;1006 hPa;6.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Unknown
+20120726;9:00 PM;25.0 °C;-;24.0 °C;94%;1004 hPa;6.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Overcast
+20131229;9:00 PM;4.0 °C;2.2 °C;-23.0 °C;12%;1017 hPa;8.0 km;Variable;7.2 km/h / 2.0 m/s;-;N/A;;Unknown
+20140610;9:00 PM;20.0 °C;16.0 °C;78%;1010 hPa;5.0 km;South;7.2 km/h / 2.0 m/s;-;N/A;;Mist
+20140527;9:00 PM;23.0 °C;5.0 °C;31%;1000 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20151112;9:00 PM;7.0 °C;-;6.0 °C;93%;1028 hPa;2.2 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Overcast
+20030403;9:00 PM;10.0 °C;3.0 °C;62%;1018 hPa;-;SSE;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20160301;9:00 PM;2.0 °C;-;-8.0 °C;48%;1020 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20150816;9:00 PM;29.0 °C;31.3 °C;21.0 °C;62%;1005 hPa;-;South;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20030501;9:00 PM;25.0 °C;-;15.0 °C;54%;1002 hPa;-;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20050728;9:00 PM;29.0 °C;30.3 °C;19.0 °C;55%;1000 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20051127;9:00 PM;4.0 °C;-;-5.0 °C;52%;1016 hPa;2.5 km;East;3.6 km/h / 1.0 m/s;-;N/A;;Smoke
+20050612;9:00 PM;25.0 °C;-;15.0 °C;54%;998 hPa;-;North;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20170316;9:00 PM;9.0 °C;-;-4.0 °C;40%;1019 hPa;7.0 km;Calm;Calm;-;N/A;;Unknown
+20150607;9:00 PM;22.0 °C;8.0 °C;41%;1008 hPa;-;WNW;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20091126;9:00 PM;-1.0 °C;-;-2.0 °C;93%;1028 hPa;2.5 km;ENE;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20130310;9:00 PM;4.0 °C;2.2 °C;-12.0 °C;31%;1025 hPa;-;SE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20131126;9:00 PM;0.0 °C;-7.3 °C;-25.0 °C;14%;1024 hPa;-;North;39.6 km/h / 11.0 m/s;-;N/A;;Clear
+20050306;9:00 PM;4.0 °C;-;-6.0 °C;49%;1017 hPa;3.0 km;NNE;3.6 km/h / 1.0 m/s;-;N/A;;Smoke
+20120228;9:00 PM;1.0 °C;-2.3 °C;-9.0 °C;48%;1020 hPa;4.5 km;SE;10.8 km/h / 3.0 m/s;-;N/A;;Haze
+20030227;9:00 PM;1.0 °C;-;-4.0 °C;70%;1027 hPa;3.0 km;SE;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20131210;9:00 PM;1.0 °C;-5.7 °C;-21.0 °C;18%;1022 hPa;-;NW;36.0 km/h / 10.0 m/s;-;N/A;;Clear
+20091224;9:00 PM;2.0 °C;-4.4 °C;-17.0 °C;24%;1020 hPa;3.5 km;NW;36.0 km/h / 10.0 m/s;54.0 km/h / 15.0 m/s;N/A;;Blowing Sand
+20111106;9:00 PM;7.0 °C;-;3.0 °C;76%;1028 hPa;-;Calm;Calm;-;N/A;;Clear
+20050705;9:00 PM;31.0 °C;30.9 °C;16.0 °C;40%;998 hPa;-;East;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20091206;9:00 PM;-4.0 °C;-7.1 °C;-8.0 °C;74%;1027 hPa;4.0 km;North;7.2 km/h / 2.0 m/s;-;N/A;;Haze
+20141214;9:00 PM;-2.0 °C;-;-12.0 °C;47%;1025 hPa;6.0 km;East;3.6 km/h / 1.0 m/s;-;N/A;;Unknown
+20121101;9:00 PM;9.0 °C;-;0.0 °C;54%;1019 hPa;5.0 km;ESE;10.8 km/h / 3.0 m/s;-;N/A;;Haze
+20141111;9:00 PM;10.0 °C;-;-10.0 °C;24%;1021 hPa;-;NW;28.8 km/h / 8.0 m/s;-;N/A;;Clear
+20120308;9:00 PM;0.0 °C;-2.5 °C;-20.0 °C;21%;1029 hPa;-;Variable;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20131215;9:00 PM;-3.0 °C;-;-16.0 °C;37%;1034 hPa;6.0 km;Calm;Calm;-;N/A;;Unknown
+20110707;9:00 PM;25.0 °C;-;14.0 °C;50%;998 hPa;-;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20120313;9:00 PM;5.0 °C;1.9 °C;-14.0 °C;24%;1019 hPa;-;North;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20091117;9:00 PM;0.0 °C;-2.5 °C;-14.0 °C;35%;1032 hPa;-;West;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20140522;9:00 PM;27.0 °C;26.8 °C;12.0 °C;39%;1007 hPa;-;South;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20120722;9:00 PM;26.0 °C;-;23.0 °C;83%;1002 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20131224;9:00 PM;-4.0 °C;-;-9.0 °C;69%;1031 hPa;2.3 km;NNE;3.6 km/h / 1.0 m/s;-;N/A;;Haze
+20111218;9:00 PM;-2.0 °C;-5.9 °C;-17.0 °C;31%;1032 hPa;-;NNW;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20050724;9:00 PM;25.0 °C;-;22.0 °C;83%;1008 hPa;-;South;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20151108;9:00 PM;2.0 °C;-;1.0 °C;93%;1026 hPa;5.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20131121;9:00 PM;2.0 °C;-;-7.0 °C;52%;1026 hPa;7.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Unknown
+20140518;9:00 PM;27.0 °C;27.0 °C;13.0 °C;42%;1006 hPa;8.0 km;South;10.8 km/h / 3.0 m/s;-;N/A;;Unknown
+20150811;9:00 PM;26.0 °C;-;23.0 °C;83%;1007 hPa;-;SSE;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20051122;9:00 PM;9.0 °C;-;-5.0 °C;37%;1023 hPa;7.0 km;WNW;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20160225;9:00 PM;0.0 °C;-2.5 °C;-14.0 °C;35%;1032 hPa;-;North;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20050607;9:00 PM;20.0 °C;-;19.0 °C;94%;1006 hPa;7.0 km;North;10.8 km/h / 3.0 m/s;-;N/A;;Mostly Cloudy
+20150806;9:00 PM;27.0 °C;29.6 °C;23.0 °C;79%;1009 hPa;-;SE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20170312;9:00 PM;6.0 °C;4.5 °C;-17.0 °C;18%;1028 hPa;-;NNE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20150602;9:00 PM;26.0 °C;-3.0 °C;15%;1011 hPa;-;NE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20050630;9:00 PM;30.0 °C;36.0 °C;25.0 °C;74%;998 hPa;8.0 km;East;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20111023;9:00 PM;7.0 °C;5.7 °C;0.0 °C;61%;1028 hPa;-;NE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20141209;9:00 PM;-1.0 °C;-3.6 °C;-7.0 °C;64%;1030 hPa;3.0 km;North;7.2 km/h / 2.0 m/s;-;N/A;;Haze
+20120223;9:00 PM;-2.0 °C;-4.8 °C;-14.0 °C;40%;1025 hPa;-;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20110915;9:00 PM;23.0 °C;-;19.0 °C;78%;1011 hPa;5.0 km;South;7.2 km/h / 2.0 m/s;-;N/A;;Overcast
+20111013;9:00 PM;16.0 °C;12.0 °C;77%;1011 hPa;10.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;Thunderstorm;Unknown
+20141106;9:00 PM;4.0 °C;-;-4.0 °C;56%;1032 hPa;-;SSE;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20110703;9:00 PM;31.0 °C;31.9 °C;18.0 °C;46%;1002 hPa;-;SW;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20111101;9:00 PM;10.0 °C;-;8.0 °C;87%;1026 hPa;-;North;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20130305;9:00 PM;4.0 °C;-;-6.0 °C;49%;1014 hPa;5.0 km;North;3.6 km/h / 1.0 m/s;-;N/A;;Haze
+20050301;9:00 PM;-1.0 °C;-3.6 °C;-3.0 °C;86%;1031 hPa;4.0 km;East;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20131205;9:00 PM;3.0 °C;1.0 °C;-15.0 °C;26%;1022 hPa;-;South;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20110906;9:00 PM;23.0 °C;-;19.0 °C;78%;1008 hPa;7.0 km;ESE;7.2 km/h / 2.0 m/s;-;N/A;;Unknown
+20121028;9:00 PM;10.0 °C;-;4.0 °C;66%;1025 hPa;-;SE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20150719;9:00 PM;23.0 °C;-;21.0 °C;88%;1009 hPa;6.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Mostly Cloudy
+20140508;9:00 PM;18.0 °C;5.0 °C;42%;1013 hPa;-;SE;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20120304;9:00 PM;-1.0 °C;-;-7.0 °C;64%;1019 hPa;6.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Unknown
+20091112;9:00 PM;-1.0 °C;-3.6 °C;-2.0 °C;93%;1030 hPa;6.0 km;South;7.2 km/h / 2.0 m/s;-;N/A;;Overcast
+20151103;9:00 PM;8.0 °C;-;5.0 °C;81%;1022 hPa;6.0 km;SSE;3.6 km/h / 1.0 m/s;-;N/A;;Unknown
+20120717;9:00 PM;27.0 °C;28.9 °C;21.0 °C;70%;1009 hPa;-;SE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20111004;9:00 PM;13.0 °C;-;11.0 °C;88%;1017 hPa;3.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20051117;9:00 PM;3.0 °C;-;0.0 °C;81%;1031 hPa;2.5 km;SE;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20131117;9:00 PM;4.0 °C;0.1 °C;-18.0 °C;19%;1027 hPa;-;North;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20140513;9:00 PM;24.0 °C;-;-4.0 °C;15%;1001 hPa;-;NNW;25.2 km/h / 7.0 m/s;-;N/A;;Clear
+20150728;9:00 PM;27.0 °C;30.1 °C;24.0 °C;84%;1002 hPa;-;ENE;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20111213;9:00 PM;-4.0 °C;-;-5.0 °C;93%;1023 hPa;1.8 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20050719;9:00 PM;30.0 °C;38.8 °C;27.0 °C;84%;1008 hPa;2.5 km;SSE;10.8 km/h / 3.0 m/s;-;N/A;;Mist
+20160221;9:00 PM;1.0 °C;-2.3 °C;-8.0 °C;52%;1026 hPa;-;SE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20150630;9:00 PM;25.0 °C;-;15.0 °C;54%;997 hPa;-;SSW;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20110925;9:00 PM;17.0 °C;16.0 °C;94%;1017 hPa;2.5 km;ESE;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20141204;9:00 PM;-3.0 °C;-9.3 °C;-22.0 °C;22%;1028 hPa;-;North;21.6 km/h / 6.0 m/s;-;N/A;;Clear
+20170307;9:00 PM;4.0 °C;-0.8 °C;-16.0 °C;22%;1023 hPa;-;NW;25.2 km/h / 7.0 m/s;-;N/A;;Clear
+20150802;9:00 PM;27.0 °C;30.6 °C;25.0 °C;89%;1002 hPa;6.0 km;ESE;7.2 km/h / 2.0 m/s;-;N/A;;Unknown
+20150528;9:00 PM;26.0 °C;-;14.0 °C;47%;1004 hPa;-;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20110628;9:00 PM;27.0 °C;28.2 °C;19.0 °C;61%;1003 hPa;7.0 km;East;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20120219;9:00 PM;2.0 °C;-1.8 °C;-22.0 °C;16%;1021 hPa;-;South;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20121023;9:00 PM;7.0 °C;5.7 °C;5.0 °C;87%;1013 hPa;7.0 km;ENE;7.2 km/h / 2.0 m/s;-;N/A;;Unknown
+20111027;9:00 PM;8.0 °C;-;6.0 °C;87%;1024 hPa;3.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20110911;9:00 PM;18.0 °C;15.0 °C;83%;1018 hPa;8.0 km;SSW;7.2 km/h / 2.0 m/s;-;N/A;;Unknown
+20111018;9:00 PM;10.0 °C;-;8.0 °C;87%;1023 hPa;-;ENE;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20110605;9:00 PM;29.0 °C;28.2 °C;12.0 °C;35%;1004 hPa;-;SSW;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20141102;9:00 PM;8.0 °C;6.9 °C;-7.0 °C;34%;1023 hPa;-;North;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20050224;9:00 PM;-3.0 °C;-9.3 °C;-17.0 °C;34%;1026 hPa;-;NW;21.6 km/h / 6.0 m/s;-;N/A;;Clear
+20141028;9:00 PM;10.0 °C;-;5.0 °C;71%;1025 hPa;-;ESE;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20111009;9:00 PM;18.0 °C;15.0 °C;83%;1021 hPa;1.4 km;ESE;10.8 km/h / 3.0 m/s;-;N/A;;Mist
+20150430;9:00 PM;24.0 °C;-;14.0 °C;53%;1010 hPa;6.0 km;SE;18.0 km/h / 5.0 m/s;-;N/A;;Unknown
+20141019;9:00 PM;16.0 °C;13.0 °C;82%;1015 hPa;6.0 km;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Unknown
+20130228;9:00 PM;1.0 °C;-5.7 °C;-20.0 °C;20%;1025 hPa;-;NW;36.0 km/h / 10.0 m/s;-;N/A;;Clear
+20150714;9:00 PM;30.0 °C;29.7 °C;15.0 °C;40%;1004 hPa;-;WNW;21.6 km/h / 6.0 m/s;-;N/A;;Clear
+20140504;9:00 PM;11.0 °C;-8.0 °C;26%;1019 hPa;-;NNE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20131112;9:00 PM;8.0 °C;6.9 °C;-7.0 °C;34%;1025 hPa;-;South;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20150519;9:00 PM;19.0 °C;3.0 °C;35%;1011 hPa;-;North;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20151029;9:00 PM;8.0 °C;4.4 °C;-10.0 °C;27%;1029 hPa;-;NNW;25.2 km/h / 7.0 m/s;-;N/A;;Clear
+20110901;9:00 PM;21.0 °C;-;15.0 °C;68%;1010 hPa;-;South;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20150723;9:00 PM;25.0 °C;-;23.0 °C;89%;1003 hPa;-;Calm;Calm;-;N/A;;Clear
+20051113;9:00 PM;5.0 °C;2.5 °C;-5.0 °C;49%;1032 hPa;-;SSE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20150621;9:00 PM;27.0 °C;27.3 °C;15.0 °C;48%;1006 hPa;-;SSE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20110317;9:00 PM;7.0 °C;-;-8.0 °C;34%;1014 hPa;7.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20150709;9:00 PM;29.0 °C;28.6 °C;14.0 °C;40%;1012 hPa;-;SSE;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20110929;9:00 PM;14.0 °C;2.0 °C;44%;1021 hPa;-;North;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20101221;9:00 PM;-2.0 °C;-;-6.0 °C;74%;1013 hPa;2.1 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Haze
+20150625;9:00 PM;25.0 °C;-;20.0 °C;74%;1000 hPa;6.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Unknown
+20110201;9:00 PM;4.0 °C;0.6 °C;-22.0 °C;14%;1021 hPa;-;WNW;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20170302;9:00 PM;9.0 °C;-;-11.0 °C;24%;1013 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20110920;9:00 PM;16.0 °C;-;7.0 °C;55%;1017 hPa;-;South;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20141130;9:00 PM;-2.0 °C;-9.7 °C;-28.0 °C;12%;1029 hPa;-;NW;36.0 km/h / 10.0 m/s;54.0 km/h / 15.0 m/s;N/A;;Clear
+20101109;9:00 PM;1.0 °C;-;-3.0 °C;75%;1019 hPa;7.0 km;Calm;Calm;-;N/A;;Unknown
+20111208;9:00 PM;-4.0 °C;-11.5 °C;-18.0 °C;34%;1041 hPa;-;NNW;28.8 km/h / 8.0 m/s;-;N/A;;Clear
+20150524;9:00 PM;27.0 °C;27.0 °C;13.0 °C;42%;1005 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20150412;9:00 PM;5.0 °C;-0.4 °C;-3.0 °C;57%;1031 hPa;-;North;36.0 km/h / 10.0 m/s;-;N/A;;Clear
+20160216;9:00 PM;4.0 °C;-1.4 °C;-12.0 °C;31%;1025 hPa;-;North;32.4 km/h / 9.0 m/s;-;N/A;;Clear
+20120214;9:00 PM;-1.0 °C;-4.7 °C;-22.0 °C;19%;1030 hPa;-;WNW;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20050220;9:00 PM;-7.0 °C;-;-13.0 °C;63%;1028 hPa;-;ESE;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20110623;9:00 PM;20.0 °C;19.0 °C;94%;1003 hPa;10.0 km;East;14.4 km/h / 4.0 m/s;-;N/A;Rain , Thunderstorm;Light Thunderstorms and Rain
+20141014;9:00 PM;17.0 °C;-;3.0 °C;39%;1015 hPa;-;Variable;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20121018;9:00 PM;10.0 °C;-;7.0 °C;82%;1018 hPa;-;East;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20110410;9:00 PM;11.0 °C;-19.0 °C;11%;1022 hPa;-;North;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20110227;9:00 PM;0.0 °C;-4.3 °C;-8.0 °C;55%;1027 hPa;-;NNE;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20140429;9:00 PM;22.0 °C;8.0 °C;41%;1010 hPa;-;SSW;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20141023;9:00 PM;9.0 °C;9.0 °C;100%;1013 hPa;4.0 km;East;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20110828;9:00 PM;24.0 °C;-;20.0 °C;78%;1009 hPa;8.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20150426;9:00 PM;26.0 °C;-;10.0 °C;36%;1008 hPa;-;SSW;21.6 km/h / 6.0 m/s;-;N/A;;Clear
+20150421;9:00 PM;17.0 °C;-;-2.0 °C;27%;1014 hPa;-;North;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20110308;9:00 PM;5.0 °C;2.5 °C;-18.0 °C;18%;1025 hPa;-;NNW;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20110531;9:00 PM;23.0 °C;9.0 °C;41%;1004 hPa;-;WNW;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20110428;9:00 PM;18.0 °C;7.0 °C;49%;1003 hPa;-;South;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20130224;9:00 PM;1.0 °C;-;-6.0 °C;60%;1026 hPa;3.5 km;ESE;3.6 km/h / 1.0 m/s;-;N/A;;Haze
+20150514;9:00 PM;21.0 °C;8.0 °C;43%;1009 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20150402;9:00 PM;12.0 °C;-;5.0 °C;62%;1002 hPa;-;NW;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20110419;9:00 PM;16.0 °C;-;0.0 °C;34%;1012 hPa;-;SE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20150705;9:00 PM;25.0 °C;-;17.0 °C;61%;1009 hPa;-;SSE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20101216;9:00 PM;-3.0 °C;-;-17.0 °C;34%;1011 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20151025;9:00 PM;9.0 °C;-;6.0 °C;82%;1025 hPa;10.0 km;SE;7.2 km/h / 2.0 m/s;-;N/A;Rain;Light Rain
+20110517;9:00 PM;21.0 °C;16.0 °C;73%;997 hPa;4.0 km;North;7.2 km/h / 2.0 m/s;-;N/A;;Mist
+20150616;9:00 PM;24.0 °C;-;19.0 °C;73%;1004 hPa;7.0 km;NNW;14.4 km/h / 4.0 m/s;-;N/A;Rain;Light Rain Showers
+20110313;9:00 PM;8.0 °C;3.6 °C;-12.0 °C;23%;1024 hPa;-;NNE;36.0 km/h / 10.0 m/s;54.0 km/h / 15.0 m/s;N/A;;Clear
+20170226;9:00 PM;8.0 °C;6.9 °C;-8.0 °C;32%;1024 hPa;-;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20141125;9:00 PM;4.0 °C;2.2 °C;1.0 °C;81%;1017 hPa;4.5 km;ESE;7.2 km/h / 2.0 m/s;-;N/A;;Mist
+20101021;9:00 PM;11.0 °C;9.0 °C;88%;1021 hPa;5.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Overcast
+20101104;9:00 PM;7.0 °C;-;2.0 °C;71%;1022 hPa;7.0 km;ENE;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20110127;9:00 PM;-4.0 °C;-8.3 °C;-21.0 °C;26%;1041 hPa;-;NNW;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20110331;9:00 PM;12.0 °C;4.0 °C;58%;1015 hPa;3.5 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Haze
+20160204;9:00 PM;-2.0 °C;-6.7 °C;-16.0 °C;34%;1031 hPa;-;North;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20150510;9:00 PM;9.0 °C;9.0 °C;100%;1014 hPa;6.0 km;North;10.8 km/h / 3.0 m/s;-;N/A;;Overcast
+20150407;9:00 PM;10.0 °C;-;-9.0 °C;26%;1028 hPa;-;SW;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20111204;9:00 PM;-3.0 °C;-5.9 °C;-3.0 °C;100%;1031 hPa;0.4 km;SE;7.2 km/h / 2.0 m/s;-;N/A;Fog;Light Freezing Fog
+20120209;9:00 PM;-3.0 °C;-8.0 °C;-19.0 °C;29%;1026 hPa;-;North;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20110222;9:00 PM;0.0 °C;-;-5.0 °C;69%;1018 hPa;1.8 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Haze
+20050216;9:00 PM;-2.0 °C;-5.9 °C;-4.0 °C;86%;1029 hPa;3.0 km;South;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20110619;9:00 PM;26.0 °C;-;18.0 °C;61%;1006 hPa;5.0 km;SE;14.4 km/h / 4.0 m/s;-;N/A;;Haze
+20110526;9:00 PM;15.0 °C;14.0 °C;94%;1013 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20121014;9:00 PM;11.0 °C;-;6.0 °C;71%;1023 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20150416;9:00 PM;17.0 °C;-7.0 °C;19%;1010 hPa;-;SW;25.2 km/h / 7.0 m/s;-;N/A;;Clear
+20110508;9:00 PM;12.0 °C;12.0 °C;100%;1007 hPa;5.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;Rain;Light Rain
+20110414;9:00 PM;25.0 °C;-1.0 °C;18%;1001 hPa;-;SSW;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20110405;9:00 PM;15.0 °C;-;-4.0 °C;27%;1020 hPa;6.0 km;South;14.4 km/h / 4.0 m/s;-;N/A;;Unknown
+20141009;9:00 PM;15.0 °C;14.0 °C;94%;1020 hPa;1.5 km;North;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20130219;9:00 PM;-2.0 °C;-4.8 °C;-13.0 °C;43%;1028 hPa;-;South;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20150329;9:00 PM;17.0 °C;-;4.0 °C;42%;1011 hPa;6.0 km;SE;14.4 km/h / 4.0 m/s;-;N/A;;Unknown
+20110303;9:00 PM;6.0 °C;2.6 °C;-14.0 °C;23%;1026 hPa;-;West;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20110424;9:00 PM;14.0 °C;-2.0 °C;33%;1007 hPa;-;South;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20170221;9:00 PM;-3.0 °C;-5.9 °C;-4.0 °C;93%;1026 hPa;2.0 km;SSE;7.2 km/h / 2.0 m/s;-;N/A;Snow;Light Snow
+20151020;9:00 PM;12.0 °C;-;9.0 °C;82%;1019 hPa;7.0 km;North;14.4 km/h / 4.0 m/s;-;N/A;;Unknown
+20101017;9:00 PM;8.0 °C;-;0.0 °C;57%;1029 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20110113;9:00 PM;-7.0 °C;-11.9 °C;-19.0 °C;39%;1025 hPa;-;North;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20141120;9:00 PM;0.0 °C;-;-2.0 °C;87%;1019 hPa;1.5 km;ENE;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20150611;9:00 PM;23.0 °C;11.0 °C;47%;997 hPa;-;North;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20110512;9:00 PM;21.0 °C;-2.0 °C;21%;1010 hPa;-;NNW;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20101012;9:00 PM;12.0 °C;-;9.0 °C;82%;1020 hPa;-;SE;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20101031;9:00 PM;8.0 °C;6.9 °C;2.0 °C;66%;1024 hPa;-;WNW;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20110123;9:00 PM;-4.0 °C;-11.5 °C;-20.0 °C;28%;1033 hPa;-;NNW;28.8 km/h / 8.0 m/s;-;N/A;;Clear
+20101212;9:00 PM;0.0 °C;-;-7.0 °C;60%;1023 hPa;8.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Unknown
+20101202;9:00 PM;-2.0 °C;-5.9 °C;-15.0 °C;37%;1027 hPa;-;NNE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20110327;9:00 PM;9.0 °C;-;-12.0 °C;22%;1023 hPa;-;North;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20101123;9:00 PM;2.0 °C;-0.1 °C;-6.0 °C;56%;1019 hPa;3.5 km;NNW;7.2 km/h / 2.0 m/s;-;N/A;;Smoke
+20110104;9:00 PM;-2.0 °C;-8.9 °C;-17.0 °C;31%;1028 hPa;-;NW;28.8 km/h / 8.0 m/s;-;N/A;;Clear
+20111129;9:00 PM;1.0 °C;-;-8.0 °C;52%;1035 hPa;7.0 km;SSE;3.6 km/h / 1.0 m/s;-;N/A;;Overcast
+20110614;9:00 PM;23.0 °C;-;20.0 °C;83%;1003 hPa;5.0 km;WNW;18.0 km/h / 5.0 m/s;-;N/A;Rain , Thunderstorm;Thunderstorms and Rain
+20150505;9:00 PM;17.0 °C;-4.0 °C;24%;1007 hPa;-;North;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20050203;9:00 PM;-3.0 °C;-;-16.0 °C;37%;1023 hPa;-;ENE;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20121009;9:00 PM;16.0 °C;1.0 °C;36%;1019 hPa;-;NW;25.2 km/h / 7.0 m/s;-;N/A;;Clear
+20110217;9:00 PM;3.0 °C;-0.6 °C;-8.0 °C;45%;1026 hPa;6.0 km;SW;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20110522;9:00 PM;23.0 °C;3.0 °C;27%;1009 hPa;-;SSW;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20130207;9:00 PM;-8.0 °C;-14.1 °C;-23.0 °C;30%;1040 hPa;-;NE;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20110503;9:00 PM;19.0 °C;0.0 °C;28%;1014 hPa;-;SSE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20150324;9:00 PM;10.0 °C;-;-5.0 °C;35%;1030 hPa;-;SE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20110109;9:00 PM;-5.0 °C;-10.4 °C;-22.0 °C;26%;1035 hPa;-;NW;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20101007;9:00 PM;15.0 °C;14.0 °C;94%;1016 hPa;2.0 km;ESE;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20170216;9:00 PM;0.0 °C;-3.5 °C;-16.0 °C;30%;1028 hPa;-;NNE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20151015;9:00 PM;14.0 °C;12.0 °C;88%;1017 hPa;5.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20101207;9:00 PM;5.0 °C;1.3 °C;-16.0 °C;21%;1012 hPa;-;SW;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20101128;9:00 PM;-2.0 °C;-;-9.0 °C;59%;1021 hPa;4.5 km;SSE;3.6 km/h / 1.0 m/s;-;N/A;;Haze
+20101118;9:00 PM;5.0 °C;-;3.0 °C;87%;1019 hPa;1.3 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20111124;9:00 PM;-3.0 °C;-;-5.0 °C;86%;1029 hPa;4.0 km;North;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20101026;9:00 PM;4.0 °C;1.3 °C;-10.0 °C;36%;1036 hPa;-;South;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20110322;9:00 PM;5.0 °C;2.5 °C;-19.0 °C;16%;1026 hPa;-;North;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20101230;9:00 PM;-8.0 °C;-18.0 °C;-24.0 °C;27%;1027 hPa;-;NW;39.6 km/h / 11.0 m/s;-;N/A;;Clear
+20050130;9:00 PM;-6.0 °C;-;-20.0 °C;33%;1025 hPa;-;ESE;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20110118;9:00 PM;-7.0 °C;-12.9 °C;-22.0 °C;30%;1033 hPa;-;North;14.4 km/h / 4.0 m/s;-;N/A;;Clear
+20110609;9:00 PM;27.0 °C;27.7 °C;17.0 °C;54%;1000 hPa;-;South;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20130203;9:00 PM;-2.0 °C;-5.9 °C;-3.0 °C;93%;1018 hPa;1.8 km;North;10.8 km/h / 3.0 m/s;-;N/A;;Overcast
+20110213;9:00 PM;-4.0 °C;-8.3 °C;-8.0 °C;74%;1032 hPa;7.0 km;West;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20121004;9:00 PM;20.0 °C;-;4.0 °C;35%;1015 hPa;-;WSW;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20170212;9:00 PM;-2.0 °C;-4.8 °C;-11.0 °C;51%;1026 hPa;6.0 km;East;7.2 km/h / 2.0 m/s;-;N/A;;Unknown
+20101003;9:00 PM;13.0 °C;4.0 °C;54%;1018 hPa;-;North;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20151011;9:00 PM;18.0 °C;-2.0 °C;26%;1020 hPa;-;NNW;18.0 km/h / 5.0 m/s;-;N/A;;Clear
+20101114;9:00 PM;3.0 °C;-1.6 °C;-14.0 °C;28%;1040 hPa;-;NW;21.6 km/h / 6.0 m/s;-;N/A;;Clear
+20101226;9:00 PM;-6.0 °C;-;-17.0 °C;42%;1013 hPa;7.0 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20111120;9:00 PM;-2.0 °C;-;-6.0 °C;74%;1030 hPa;9.0 km;NE;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20050125;9:00 PM;-2.0 °C;-;-7.0 °C;69%;1026 hPa;4.0 km;SSE;3.6 km/h / 1.0 m/s;-;N/A;;Smoke
+20130129;9:00 PM;-3.0 °C;-5.9 °C;-4.0 °C;93%;1027 hPa;1.6 km;ESE;7.2 km/h / 2.0 m/s;-;N/A;;Overcast
+20170207;9:00 PM;-4.0 °C;-7.1 °C;-7.0 °C;80%;1030 hPa;7.0 km;North;7.2 km/h / 2.0 m/s;-;N/A;;Unknown
+20151006;9:00 PM;19.0 °C;16.0 °C;83%;1015 hPa;2.5 km;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20050120;9:00 PM;-4.0 °C;-;-18.0 °C;34%;1039 hPa;-;South;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20111115;9:00 PM;7.0 °C;5.7 °C;3.0 °C;76%;1026 hPa;4.0 km;NW;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20130124;9:00 PM;-3.0 °C;-5.9 °C;-19.0 °C;29%;1024 hPa;-;NE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20170126;9:00 PM;1.0 °C;-5.0 °C;-17.0 °C;25%;1032 hPa;-;NW;28.8 km/h / 8.0 m/s;-;N/A;;Clear
+20050116;9:00 PM;0.0 °C;-2.5 °C;-12.0 °C;41%;1025 hPa;5.0 km;Variable;7.2 km/h / 2.0 m/s;-;N/A;;Smoke
+20130120;9:00 PM;-2.0 °C;-4.8 °C;-4.0 °C;86%;1030 hPa;3.5 km;North;7.2 km/h / 2.0 m/s;-;N/A;;Overcast
+20151001;9:00 PM;15.0 °C;6.0 °C;55%;1013 hPa;-;South;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20170122;9:00 PM;-9.0 °C;-;-16.0 °C;58%;1035 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20130115;9:00 PM;-8.0 °C;-;-9.0 °C;93%;1026 hPa;3.5 km;Calm;Calm;-;N/A;;Mist
+20150927;9:00 PM;20.0 °C;16.0 °C;78%;1015 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20050111;9:00 PM;-1.0 °C;-7.6 °C;-21.0 °C;21%;1033 hPa;-;NW;28.8 km/h / 8.0 m/s;46.8 km/h / 13.0 m/s;N/A;;Clear
+20130110;9:00 PM;-7.0 °C;-11.9 °C;-8.0 °C;93%;1027 hPa;1.2 km;South;10.8 km/h / 3.0 m/s;-;N/A;;Mist
+20170117;9:00 PM;-6.0 °C;-10.7 °C;-9.0 °C;80%;1032 hPa;5.0 km;North;10.8 km/h / 3.0 m/s;-;N/A;;Mist
+20150922;9:00 PM;18.0 °C;17.0 °C;94%;1010 hPa;8.0 km;North;14.4 km/h / 4.0 m/s;-;N/A;;Unknown
+20050106;9:00 PM;-2.0 °C;-8.0 °C;-17.0 °C;31%;1035 hPa;-;NW;21.6 km/h / 6.0 m/s;-;N/A;;Clear
+20170112;9:00 PM;0.0 °C;-2.5 °C;-14.0 °C;35%;1019 hPa;-;North;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20130106;9:00 PM;-7.0 °C;-;-15.0 °C;54%;1026 hPa;4.0 km;ENE;3.6 km/h / 1.0 m/s;-;N/A;;Haze
+20150917;9:00 PM;20.0 °C;-;18.0 °C;88%;1016 hPa;5.0 km;SE;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20050102;9:00 PM;-2.0 °C;-;-11.0 °C;51%;1015 hPa;4.0 km;SSE;3.6 km/h / 1.0 m/s;-;N/A;;Smoke
+20170108;9:00 PM;4.0 °C;-1.4 °C;-13.0 °C;28%;1023 hPa;-;WNW;32.4 km/h / 9.0 m/s;-;N/A;;Clear
+20150913;9:00 PM;20.0 °C;-;13.0 °C;64%;1015 hPa;-;SSE;7.2 km/h / 2.0 m/s;-;N/A;;Clear
+20130101;9:00 PM;-10.0 °C;-19.8 °C;-27.0 °C;25%;1031 hPa;-;NNW;32.4 km/h / 9.0 m/s;-;N/A;;Clear
+20041228;9:00 PM;-8.0 °C;-13.1 °C;-19.0 °C;42%;1036 hPa;-;North;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20170103;9:00 PM;-3.0 °C;-;-4.0 °C;93%;1024 hPa;1.5 km;East;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20150908;9:00 PM;20.0 °C;-;18.0 °C;88%;1016 hPa;-;Variable;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20041223;9:00 PM;-5.0 °C;-;-7.0 °C;86%;1035 hPa;3.0 km;ESE;3.6 km/h / 1.0 m/s;-;N/A;Snow;Light Snow
+20121227;9:00 PM;-11.0 °C;-;-14.0 °C;79%;1027 hPa;3.5 km;NE;3.6 km/h / 1.0 m/s;-;N/A;;Mist
+20150903;9:00 PM;25.0 °C;-;19.0 °C;69%;1014 hPa;-;SE;10.8 km/h / 3.0 m/s;-;N/A;;Clear
+20161229;9:00 PM;-2.0 °C;-5.9 °C;-10.0 °C;55%;1033 hPa;8.0 km;SSW;10.8 km/h / 3.0 m/s;-;N/A;;Unknown
+20150830;9:00 PM;20.0 °C;18.0 °C;88%;1012 hPa;-;NNE;3.6 km/h / 1.0 m/s;-;N/A;;Clear
+20121223;9:00 PM;-13.0 °C;-;-21.0 °C;52%;1032 hPa;-;Calm;Calm;-;N/A;;Clear

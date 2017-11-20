@@ -7,7 +7,7 @@
 		revision="0.1"
 		conf="compile"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20171112141928"/>
+		date="20171117114435"/>
 	<dependencies>
 		<module organisation="com.snowplowanalytics" name="scala-maxmind-iplookups_2.11">
 			<revision name="0.2.0" status="release" pubdate="20140917024620" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="2">
@@ -115,12 +115,12 @@
 			</revision>
 		</module>
 		<module organisation="org.jsoup" name="jsoup">
-			<revision name="1.11.1" status="release" pubdate="20171105031145" resolver="aliyun" artresolver="aliyun" homepage="https://jsoup.org/" downloaded="true" searched="true" default="false" conf="default, compile, runtime, default(compile), master" position="1">
+			<revision name="1.11.1" status="release" pubdate="20171105031145" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://jsoup.org/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="1">
 				<license name="The MIT License" url="https://jsoup.org/license"/>
-				<metadata-artifact status="successful" details="" size="8040" time="158" location="/Users/hhl/.ivy2/cache/org.jsoup/jsoup/ivy-1.11.1.xml" searched="true" original-local-location="/Users/hhl/.ivy2/cache/org.jsoup/jsoup/ivy-1.11.1.xml.original" origin-is-local="false" origin-location="http://maven.aliyun.com/nexus/content/groups/public/org/jsoup/jsoup/1.11.1/jsoup-1.11.1.pom"/>
+				<metadata-artifact status="no" details="" size="3764" time="0" location="/Users/hhl/.ivy2/cache/org.jsoup/jsoup/ivy-1.11.1.xml" searched="false" origin-is-local="false" origin-location="http://maven.aliyun.com/nexus/content/groups/public/org/jsoup/jsoup/1.11.1/jsoup-1.11.1.pom"/>
 				<caller organisation="default" name="sparkappexamples_2.11" conf="compile" rev="1.11.1" rev-constraint-default="1.11.1" rev-constraint-dynamic="1.11.1" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="jsoup" type="jar" ext="jar" status="successful" details="" size="394058" time="779" location="/Users/hhl/.ivy2/cache/org.jsoup/jsoup/jars/jsoup-1.11.1.jar">
+					<artifact name="jsoup" type="jar" ext="jar" status="no" details="" size="394058" time="0" location="/Users/hhl/.ivy2/cache/org.jsoup/jsoup/jars/jsoup-1.11.1.jar">
 						<origin-location is-local="false" location="http://maven.aliyun.com/nexus/content/groups/public/org/jsoup/jsoup/1.11.1/jsoup-1.11.1.jar"/>
 					</artifact>
 				</artifacts>
