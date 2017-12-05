@@ -4,7 +4,7 @@
 		module="sparkappexamples_2.11"
 		revision="0.1"
 		status="integration"
-		publication="20171117114435"
+		publication="20171130122344"
 	>
 		<description>
 		SparkAppExamples
@@ -34,12 +34,12 @@
 	<dependencies>
 		<dependency org="org.scala-lang" name="scala-compiler" rev="2.11.8" conf="scala-tool->default,optional(default)"/>
 		<dependency org="org.scala-lang" name="scala-library" rev="2.11.8" conf="scala-tool->default,optional(default);compile->default(compile)"/>
-		<dependency org="org.apache.spark" name="spark-core_2.11" rev="2.0.0" conf="provided->default(compile)"/>
-		<dependency org="org.apache.spark" name="spark-sql_2.11" rev="2.0.0" conf="provided->default(compile)"/>
-		<dependency org="org.apache.spark" name="spark-hive_2.11" rev="2.0.0" conf="provided->default(compile)"/>
-		<dependency org="org.apache.spark" name="spark-streaming_2.11" rev="2.0.0" conf="provided->default(compile)"/>
-		<dependency org="org.apache.spark" name="spark-graphx_2.11" rev="2.0.0" conf="provided->default(compile)"/>
-		<dependency org="org.apache.spark" name="spark-mllib_2.11" rev="2.0.0" conf="provided->default(compile)"/>
+		<dependency org="org.apache.spark" name="spark-core_2.11" rev="2.2.0" conf="compile->default(compile)"/>
+		<dependency org="org.apache.spark" name="spark-sql_2.11" rev="2.2.0" conf="compile->default(compile)"/>
+		<dependency org="org.apache.spark" name="spark-hive_2.11" rev="2.2.0" conf="compile->default(compile)"/>
+		<dependency org="org.apache.spark" name="spark-streaming_2.11" rev="2.2.0" conf="compile->default(compile)"/>
+		<dependency org="org.apache.spark" name="spark-graphx_2.11" rev="2.2.0" conf="compile->default(compile)"/>
+		<dependency org="org.apache.spark" name="spark-mllib_2.11" rev="2.2.0" conf="compile->default(compile)"/>
 		<dependency org="org.jsoup" name="jsoup" rev="1.11.1" conf="compile->default(compile)"/>
 		<dependency org="com.snowplowanalytics" name="scala-maxmind-iplookups_2.11" rev="0.2.0" conf="compile->default(compile)"/>
 	</dependencies>

@@ -19,12 +19,12 @@ resolvers += "MMLSpark Repo" at "https://mmlspark.azureedge.net/maven"
 
 
 libraryDependencies ++= Seq(
-  "org.apache.spark" %% "spark-core" % "2.0.0" % "provided",
-  "org.apache.spark" %% "spark-sql" % "2.0.0" % "provided",
-  "org.apache.spark" %% "spark-hive" % "2.0.0" % "provided",
-  "org.apache.spark" %% "spark-streaming" % "2.0.0" % "provided",
-  "org.apache.spark" %% "spark-graphx" % "2.0.0" % "provided",
-  "org.apache.spark" %% "spark-mllib" % "2.0.0" % "provided",
+  "org.apache.spark" %% "spark-core" % "2.2.0" ,
+  "org.apache.spark" %% "spark-sql" % "2.2.0" ,
+  "org.apache.spark" %% "spark-hive" % "2.2.0" ,
+  "org.apache.spark" %% "spark-streaming" % "2.2.0" ,
+  "org.apache.spark" %% "spark-graphx" % "2.2.0" ,
+  "org.apache.spark" %% "spark-mllib" % "2.2.0" ,
    "org.jsoup" % "jsoup" % "1.11.1",
   // "com.microsoft.ml.spark" %% "mmlspark" % "0.10",
 //  ,

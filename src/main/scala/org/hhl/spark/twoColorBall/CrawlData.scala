@@ -17,15 +17,15 @@ import scala.concurrent.forkjoin.ForkJoinPool
   * Created by huanghl4 on 2017/11/17.
   */
 object CrawlData {
-  val ips = ProxyIP.crawlProxyIP(10, 1)
+  //val ips = ProxyIP.crawlProxyIP(10, 1)
   val failedPageUrlList = new ListBuffer[String]
 
   def main(args: Array[String]): Unit = {
 
-    concurrentCrawl2ColorBallData(73, 30)
-    //for(i<- 1 to 73) crawl2ColorBallData(i.toString)
+//    concurrentCrawl2ColorBallData(73, 30)
+//    //for(i<- 1 to 73) crawl2ColorBallData(i.toString)
+    //crawlWeatherData("2004","01","18")
     crawlWx
-    // 将失败的数据落地]
     val failedUrl = new FileWriter("/Users/hhl/mypro/SparkAppExamples/fail.txt", true)
     failedUrl.write(failedPageUrlList.toList.mkString + "\n")
     failedUrl.close()
@@ -58,27 +58,62 @@ object CrawlData {
 
   def crawlWeatherData(year: String, month: String, day: String) = {
     val pageUrl = s"https://www.wunderground.com/history/airport/ZBAA/$year/$month/$day/DailyHistory.html?req_city=Beijing&req_state=&req_statename=China&reqdb.zip=&reqdb.magic=&reqdb.wmo="
-    println("当前解析路径：" + pageUrl)
+    //println("当前解析路径：" + pageUrl)
     val doc = promiseGetUrl(100, 30000, pageUrl)
     val out1 = new FileWriter("/Users/hhl/mypro/SparkAppExamples/wx.txt", true)
+
+    val index = doc.getElementById("observations_details").select("thead").select("th").listIterator().asScala.toList.map(_.text()).zipWithIndex.toMap
     val wx = doc.getElementById("observations_details").select("tr.no-metars").listIterator().asScala.toList
-      .map(x => x.select("td").eachText().asScala.toList.mkString(";")).filter(_.contains("9:00 PM;"))
-    //wx.foreach(println)
-    //时间 (CST)	气温	风冷温	露点	湿度	气压	能见度	Wind Dir	风速	瞬间风速	Precip	活动	状况
-    out1.write(year + month + day + ";" + wx.mkString + "\n")
+      // 由于历史数据格式不一致，在爬取数据时，做数据清洗
+      .map(x => x.select("tr")).filter(x=>{
+      val time = x.select("td").first().text()
+      if (time =="8:00 PM" || time == "9:00 PM" || time == "10:00 PM") true else false
+    })
+      .map(x=>{
+      val html = x.select("td").listIterator().asScala.toList
+      val time = html(index.getOrElse("Time (CST)",-1)).text()
+      val temp_ = html(index.getOrElse("Temp.",-1)).select("span.wx-value").text()
+      val dewPoint = html(index.getOrElse("Dew Point",-1)).select("span.wx-value").text()
+      val humidity = html(index.getOrElse("Humidity",-1)).text()
+      val pressure_ = html(index.getOrElse("Pressure",-1)).select("span.wx-value").text() +""
+        val pressure = pressure_ match {
+          case "" => "-1"
+          case _ => pressure_
+        }
+      val wd = html(index.getOrElse("Wind Dir",-1)).text()
+      val ws_ = html(index.getOrElse("Wind Speed",-1)).select("span.wx-value")
+        val ws = ws_.isEmpty match {
+          case true => "0"
+          case _ => ws_.first().text()
+        }
+      val condition_ = html(index.getOrElse("Conditions",-1)).text() +""
+        val condition = condition_ match  {
+          case "" => "unknown"
+          case _ => condition_
+        }
+        List(time,temp_,dewPoint,humidity,pressure,wd,ws,condition).mkString(";")
+      })
+    // 取 气温，露点，湿度，气压,风向，状况 6个feature
+
+    for(x <- wx) out1.write(year + month + day + ";" + x.toString() + "\n")
     out1.close()
+
   }
+
 
   def crawlWx = {
     val date = Source.fromFile("/Users/hhl/mypro/SparkAppExamples/Hello.txt").getLines().filter(!_.contains("16115期"))
-      .map(_.split(";")).map(x => x(1)).map(x => x.split("-")).toList.par
-    date.tasksupport = new ForkJoinTaskSupport(new ForkJoinPool(50)) // 设置并发线程数
+      .map(_.split(";")).map(x => x(1)).map(x => x.split("-")).toList
+      .par
+    date.tasksupport = new ForkJoinTaskSupport(new ForkJoinPool(50)) // d设置并发线程数
     date.foreach(x => {
       // 利用并发集合多线程同步抓取
       val y = x(0)
       val m = x(1)
       val d = x(2)
-      crawlWeatherData(y, m, d)
+      try crawlWeatherData(y, m, d) catch {
+        case e:Exception => println(y+m+d+ "发生错误")
+      }
     })
   }
 
@@ -88,8 +123,8 @@ object CrawlData {
 
   // 利用递归实现自动重试（重试100次，每次休眠30秒）
   def promiseGetUrl(times: Int = 100, delay: Long = 30000, url: String): Document = {
-    val ip = getProxyIp
-    Try(Jsoup.connect(url).proxy(ip._1,ip._2).get()) match {
+    //val ip = getProxyIp
+    Try(Jsoup.connect(url).get()) match {
       case Failure(e) =>
         if (times != 0) {
           println(e.getMessage)
@@ -104,14 +139,15 @@ object CrawlData {
           failedPageUrlList.append(url)
           throw e
         }
-      case Success(d) => Jsoup.connect(url).proxy(ip._1,ip._2).get()
+      case Success(d) => Jsoup.connect(url).get()
     }
     //aiAll.addAndGet(all); aiCnt.addAndGet(obj);
   }
 
-  def getProxyIp: (String, Int) = {
-    ips((new Random).nextInt(ips.size))
-  }
+//  val ips = ProxyIP.crawlProxyIP(10, 1)
+//  def getProxyIp: (String, Int) = {
+//    ips((new Random).nextInt(ips.size))
+//  }
 
 
 }
